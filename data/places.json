@@ -1,0 +1,974 @@
+[
+    {
+        "id": "dc8f3788-08af-4159-934b-b8b73ff32091",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "CEN",
+        "slug": "central-knot-city",
+        "name": "Central Knot City",
+        "notes": null,
+        "type": "INFRA_CITY",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [ "ECOTOPE_RUINS", "ORDER_STORY" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "6fa149f8-2559-4282-8948-596dc624d578",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "CAP",
+        "slug": "capital-knot-city",
+        "name": "Capital Knot City",
+        "notes": null,
+        "type": "INFRA_CITY",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "a3576db3-c269-4a47-88f0-954cf431f0ba",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "IWC",
+        "slug": "incinerator-west-of-capital-knot-city",
+        "name": "Incinerator West of Capital Knot City",
+        "notes": null,
+        "type": "INFRA_INCINERATOR",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_DISPOSAL" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "8a33adb1-886e-4f09-a91e-7dd3343e61e1",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "WWC",
+        "slug": "waystation-west-of-capital-knot-city",
+        "name": "Waystation West of Capital Knot City",
+        "notes": null,
+        "type": "INFRA_WAYSTATION",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "e357f611-fdef-41c0-9cfa-49a38b9143f9",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "mule-camp-e357f611",
+        "name": "MULE Camp",
+        "notes": "Near [Waystation West of Capital Knot City][8a33adb1-886e-4f09-a91e-7dd3343e61e1].",
+        "type": "INFRA_MULE_CAMP",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "20868641-862c-4200-959f-52c5f42fb29b",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "LDN",
+        "slug": "ludens-fan",
+        "name": "Luden's Fan",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [ "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "c8d682fc-8d39-4339-8a5e-d33e91341be5",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "DWC",
+        "slug": "distribution-center-west-of-capital-knot-city",
+        "name": "Distribution Center West of Capital Knot City",
+        "notes": null,
+        "type": "INFRA_DISTRIBUTION",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "3e85adb2-1c6b-4941-b6f8-63b9abb12bdb",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "WND",
+        "slug": "wind-farm",
+        "name": "Wind Farm",
+        "notes": null,
+        "type": "INFRA_OUTPOST",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "92c8f5a7-da96-40dc-93c7-848086eebfdb",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "mule-camp-92c8f5a7",
+        "name": "MULE Camp",
+        "notes": "Near [Distribution Center West of Capital Knot City][c8d682fc-8d39-4339-8a5e-d33e91341be5].",
+        "type": "INFRA_MULE_CAMP",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "0026a2fa-cf51-468e-bc72-f6de4c66ed5a",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "MUS",
+        "slug": "musician",
+        "name": "Musician",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [ "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "b13a6647-ff34-43a8-ad86-d2b1922eedbc",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "PKC",
+        "slug": "port-knot-city",
+        "name": "Port Knot City",
+        "notes": null,
+        "type": "INFRA_CITY",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "LKC",
+        "slug": "lake-knot-city",
+        "name": "Lake Knot City",
+        "notes": null,
+        "type": "INFRA_CITY",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 2587.29,
+                "lat": 2013.84
+            }
+        }
+    },
+    {
+        "id": "ad8c1305-218c-4cdf-add5-91d97fd676f4",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "PTR",
+        "slug": "peter-englert",
+        "name": "Peter Englert",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY" ],
+        "geometry": {
+            "point": {
+                "lng": 1751.89,
+                "lat": 1971.61
+            }
+        }
+    },
+    {
+        "id": "90ae03de-cc98-4b9b-b5e9-01cf9df8a34e",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "mule-camp-90ae03de",
+        "name": "MULE Camp",
+        "notes": "South of [Lake Knot City][5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a] and north of [Engineer][22f67e30-fa51-4b78-aa6a-df641b552705].",
+        "type": "INFRA_MULE_CAMP",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "22f67e30-fa51-4b78-aa6a-df641b552705",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "ENG",
+        "slug": "engineer",
+        "name": "Engineer",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 2193.54,
+                "lat": 1189.78
+            }
+        }
+    },
+    {
+        "id": "95202c8f-a685-4282-8023-e47204142c87",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "ELD",
+        "slug": "elder",
+        "name": "Elder",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 1695.03,
+                "lat": 702.07
+            }
+        }
+    },
+    {
+        "id": "bb776d0d-3290-4864-abc3-066d1710bf2e",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "mule-camp-bb776d0d",
+        "name": "MULE Camp",
+        "notes": "South of [Craftsman][af43739c-4a41-4c37-8339-937d927ad6d8] and north of [Elder][95202c8f-a685-4282-8023-e47204142c87].",
+        "type": "INFRA_MULE_CAMP",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "af43739c-4a41-4c37-8339-937d927ad6d8",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "CFT",
+        "slug": "craftsman",
+        "name": "Craftsman",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 1226.28,
+                "lat": 1318.63
+            }
+        }
+    },
+    {
+        "id": "d139169f-ed9a-414b-8a93-e4ee3ed8b3ae",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "MIC",
+        "slug": "middle-knot-city",
+        "name": "Middle Knot City",
+        "notes": null,
+        "type": "INFRA_CITY",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ECOTOPE_RUINS", "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "08bdff60-a202-40b8-8d3d-dde96976bfed",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "DSL",
+        "slug": "distribution-center-south-of-lake-knot-city",
+        "name": "Distribution Center South of Lake Knot City",
+        "notes": null,
+        "type": "INFRA_DISTRIBUTION",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 1054.34,
+                "lat": 409.51
+            }
+        }
+    },
+    {
+        "id": "f6db6318-62d2-460c-bdd2-31f0820beb0b",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "mule-camp-f6db6318",
+        "name": "MULE Camp",
+        "notes": "South-west of [Craftsman][af43739c-4a41-4c37-8339-937d927ad6d8] and north-west of [Distribution Center South of Lake Knot City][08bdff60-a202-40b8-8d3d-dde96976bfed].",
+        "type": "INFRA_MULE_CAMP",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "WTR",
+        "slug": "weather-station",
+        "name": "Weather Station",
+        "notes": null,
+        "type": "INFRA_OUTPOST",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 36.47,
+                "lat": -73.98
+            }
+        }
+    },
+    {
+        "id": "7cda84df-3001-45af-a044-1ad0a8f164e1",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "mule-camp-7cda84df",
+        "name": "MULE Camp",
+        "notes": "North of [Timefall Farm][4744a350-a307-490a-b1f5-ffc5a83798ba].",
+        "type": "INFRA_MULE_CAMP",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "4744a350-a307-490a-b1f5-ffc5a83798ba",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "TMF",
+        "slug": "timefall-farm",
+        "name": "Timefall Farm",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 91.08,
+                "lat": -1619.15
+            }
+        }
+    },
+    {
+        "id": "9e566eba-db02-41f5-8071-f011d98df8b7",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "COL",
+        "slug": "collector",
+        "name": "Collector",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 1140.46,
+                "lat": 29.07
+            }
+        }
+    },
+    {
+        "id": "30c09dd2-2351-48ef-8574-6f009231a384",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "mule-camp-30c09dd2",
+        "name": "MULE Camp",
+        "notes": "South-east of [Distribution Center South of Lake Knot City][08bdff60-a202-40b8-8d3d-dde96976bfed] and north-east of [Collector][9e566eba-db02-41f5-8071-f011d98df8b7].",
+        "type": "INFRA_MULE_CAMP",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "1a16cbc2-40c9-4f13-964b-4f9b81777345",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "DIR",
+        "slug": "film-director",
+        "name": "Film Director",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 2002.74,
+                "lat": -24.41
+            }
+        }
+    },
+    {
+        "id": "719a3fed-9ebb-4ba3-a5c7-70553394516a",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "JNK",
+        "slug": "junk-dealer",
+        "name": "Junk Dealer",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 1620.10,
+                "lat": -275.70
+            }
+        }
+    },
+    {
+        "id": "65b94234-32de-404a-b233-85342bd4d872",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "CRL",
+        "slug": "crater-lake",
+        "name": "Crater Lake",
+        "notes": null,
+        "type": "POI_LAKE",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ECOTOPE_WATER", "ORDER_STORY", "ORDER_DISPOSAL" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "62cfb9f9-f52f-4744-b2ae-b46bfa4b0a83",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "ART",
+        "slug": "chiral-artists-studio",
+        "name": "Chiral Artist's Studio",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 2153.55,
+                "lat": -910.83
+            }
+        }
+    },
+    {
+        "id": "2d5caf01-dcfd-4e55-9a05-49f64d6213c4",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "COS",
+        "slug": "cosplayer",
+        "name": "Cosplayer",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 717.90,
+                "lat": -663.17
+            }
+        }
+    },
+    {
+        "id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "SKC",
+        "slug": "south-knot-city",
+        "name": "South Knot City",
+        "notes": null,
+        "type": "INFRA_CITY",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 1378.90,
+                "lat": -1284.69
+            }
+        }
+    },
+    {
+        "id": "1e9a444a-bf09-4c99-9399-555ceb5324d0",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "MAM",
+        "slug": "mamas-lab",
+        "name": "Mama's Lab",
+        "notes": null,
+        "type": "INFRA_OUTPOST",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY" ],
+        "geometry": {
+            "point": {
+                "lng": 1024.51,
+                "lat": -982.48
+            }
+        }
+    },
+    {
+        "id": "91a0846a-434b-4b08-b691-637577ec259e",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "WNM",
+        "slug": "waystation-north-of-mountain-knot-city",
+        "name": "Waystation North of Mountain Knot City",
+        "notes": null,
+        "type": "INFRA_WAYSTATION",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 186.75,
+                "lat": 1641.40
+            }
+        }
+    },
+    {
+        "id": "ec8e8a1d-ae89-4ed7-a854-10b5cea15973",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "IWL",
+        "slug": "incinerator-west-of-lake-knot-city",
+        "name": "Incinerator West of Lake Knot City",
+        "notes": null,
+        "type": "INFRA_INCINERATOR",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_DISPOSAL" ],
+        "geometry": {
+            "point": {
+                "lng": -341.64,
+                "lat": 2226.21
+            }
+        }
+    },
+    {
+        "id": "a492939b-b184-4de5-8245-277a8b7346ed",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "mule-camp-a492939b",
+        "name": "MULE Camp",
+        "notes": "North-west of [Incinerator West of Lake Knot City][ec8e8a1d-ae89-4ed7-a854-10b5cea15973].",
+        "type": "INFRA_MULE_CAMP",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "DNM",
+        "slug": "distribution-center-north-of-mountain-knot-city",
+        "name": "Distribution Center North of Mountain Knot City",
+        "notes": null,
+        "type": "INFRA_DISTRIBUTION",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": -1741.90,
+                "lat": 2037.95
+            }
+        }
+    },
+    {
+        "id": "9a5da290-8c92-4ebc-8c1d-980668c36f36",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "NOV",
+        "slug": "novelists-son",
+        "name": "Novelist's Son",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": -2443.74,
+                "lat": 1291.08
+            }
+        }
+    },
+    {
+        "id": "04b44723-e048-4bd9-8a54-b284d7ba7adb",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "mule-camp-04b44723",
+        "name": "MULE Camp",
+        "notes": "South of [Distribution Center North of Mountain Knot City][67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a].",
+        "type": "INFRA_MULE_CAMP",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "MKC",
+        "slug": "mountain-knot-city",
+        "name": "Mountain Knot City",
+        "notes": null,
+        "type": "INFRA_CITY",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": -1100.09,
+                "lat": 270.64
+            }
+        }
+    },
+    {
+        "id": "8b0843db-c100-499a-a44a-d0057b352934",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "DOC",
+        "slug": "doctor",
+        "name": "Doctor",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": -1427.25,
+                "lat": 56.98
+            }
+        }
+    },
+    {
+        "id": "79012bf2-5faf-4677-989c-c046471b8400",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "RBT",
+        "slug": "roboticist",
+        "name": "Roboticist",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": -647.17,
+                "lat": -146.53
+            }
+        }
+    },
+    {
+        "id": "319e9b0e-f031-4a9a-b1a6-bf0d75b15313",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "MNT",
+        "slug": "mountaineer",
+        "name": "Mountaineer",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": -920.12,
+                "lat": 1063.61
+            }
+        }
+    },
+    {
+        "id": "70d1a23d-c33f-4b4d-9950-c66b20885d68",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "PHT",
+        "slug": "photographer",
+        "name": "Photographer",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": -2169.54,
+                "lat": 602.02
+            }
+        }
+    },
+    {
+        "id": "ed779f6d-9468-4770-af88-988bd061d8fe",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "SPT",
+        "slug": "spiritualist",
+        "name": "Spiritualist",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": -318.60,
+                "lat": 990.34
+            }
+        }
+    },
+    {
+        "id": "603cd29f-8cb7-4e4f-857e-02cb389ab14e",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "FTP",
+        "slug": "first-prepper",
+        "name": "First Prepper",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": -221.06,
+                "lat": 726.37
+            }
+        }
+    },
+    {
+        "id": "3b432ede-3717-4f5b-be94-b64e892cfe99",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "HRT",
+        "slug": "heartmans-lab",
+        "name": "Heartman's Lab",
+        "notes": null,
+        "type": "INFRA_OUTPOST",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": -1213.11,
+                "lat": -221.44
+            }
+        }
+    },
+    {
+        "id": "86a1e6ea-e86c-4200-b939-6f46b7665978",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "GEO",
+        "slug": "geologist",
+        "name": "Geologist",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": -898.98,
+                "lat": -790.65
+            }
+        }
+    },
+    {
+        "id": "daef38ec-2a2c-43f2-b860-4accfa75ab73",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "PAL",
+        "slug": "paleontologist",
+        "name": "Paleontologist",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": -1243.72,
+                "lat": -1247.38
+            }
+        }
+    },
+    {
+        "id": "e9c4b81f-c7fb-4f5a-b0d0-090396ae7ee4",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "VET",
+        "slug": "veteran-porter",
+        "name": "Veteran Porter",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": -421.59,
+                "lat": -1164.98
+            }
+        }
+    },
+    {
+        "id": "7a695253-c360-4984-b9b2-1041462c16c3",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "BIO",
+        "slug": "evo-devo-biologist",
+        "name": "Evo-Devo Biologist",
+        "notes": null,
+        "type": "INFRA_SHELTER",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": -1831.92,
+                "lat": -704.12
+            }
+        }
+    },
+    {
+        "id": "b0546520-a047-4eac-abcf-fbb8bb9e605d",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "mule-camp-b0546520",
+        "name": "MULE Camp",
+        "notes": "South of [Evo-Devo Biologist][7a695253-c360-4984-b9b2-1041462c16c3].",
+        "type": "INFRA_MULE_CAMP",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": "5c0dd0cd-b7ed-42f0-933b-51ca1ee42912",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "RLY",
+        "slug": "chiral-relay",
+        "name": "Chiral Relay",
+        "notes": null,
+        "type": "INFRA_OUTPOST",
+        "region": "REGION_WESTERN",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": -2558.54,
+                "lat": -2015.51
+            }
+        }
+    },
+    {
+        "id": "6ccae4ae-a669-4150-824a-1c170266151f",
+        "bsln": "X-UCA-00-000",
+        "alpha3": "EKC",
+        "slug": "edge-knot-city",
+        "name": "Edge Knot City",
+        "notes": null,
+        "type": "INFRA_CITY",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [ "ORDER_STORY" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    }
+]
