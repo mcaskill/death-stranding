@@ -1,7 +1,7 @@
 [
     {
         "id": "dc8f3788-08af-4159-934b-b8b73ff32091",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-01-020",
         "alpha3": "CEN",
         "slug": "central-knot-city",
         "name": "Central Knot City",
@@ -10,6 +10,42 @@
         "region": "REGION_EASTERN",
         "amenities": [],
         "tags": [ "ECOTOPE_RUINS", "ORDER_STORY" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": null,
+        "bsln": "UCA-01-002",
+        "alpha3": null,
+        "slug": null,
+        "name": null,
+        "notes": "Referenced in Lucy's Report 'Concerning the Voidout in the Satellite Town of UCA-01-002, near Central Knot City'.",
+        "type": "INFRA_CITY",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [ "ECOTOPE_RUINS", "ORDER_STORY" ],
+        "geometry": {
+            "point": {
+                "lng": 0,
+                "lat": 0
+            }
+        }
+    },
+    {
+        "id": null,
+        "bsln": "UCA-01-032",
+        "alpha3": null,
+        "slug": null,
+        "name": null,
+        "notes": "Referenced in Lucy's Report 'Concerning the Voidout in the Satellite Town of UCA-01-002, near Central Knot City'.",
+        "type": "INFRA_CITY",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [],
         "geometry": {
             "point": {
                 "lng": 0,
