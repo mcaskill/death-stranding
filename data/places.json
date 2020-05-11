@@ -19,7 +19,7 @@
     },
     {
         "id": "6fa149f8-2559-4282-8948-596dc624d578",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-01-003",
         "alpha3": "CAP",
         "slug": "capital-knot-city",
         "name": "Capital Knot City",
@@ -37,7 +37,7 @@
     },
     {
         "id": "a3576db3-c269-4a47-88f0-954cf431f0ba",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-01-119",
         "alpha3": "IWC",
         "slug": "incinerator-west-of-capital-knot-city",
         "name": "Incinerator West of Capital Knot City",
@@ -55,7 +55,7 @@
     },
     {
         "id": "8a33adb1-886e-4f09-a91e-7dd3343e61e1",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-02-155",
         "alpha3": "WWC",
         "slug": "waystation-west-of-capital-knot-city",
         "name": "Waystation West of Capital Knot City",
@@ -91,7 +91,7 @@
     },
     {
         "id": "20868641-862c-4200-959f-52c5f42fb29b",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S02-01",
         "alpha3": "LDN",
         "slug": "ludens-fan",
         "name": "Luden's Fan",
@@ -109,7 +109,7 @@
     },
     {
         "id": "c8d682fc-8d39-4339-8a5e-d33e91341be5",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-02-281",
         "alpha3": "DWC",
         "slug": "distribution-center-west-of-capital-knot-city",
         "name": "Distribution Center West of Capital Knot City",
@@ -127,7 +127,7 @@
     },
     {
         "id": "3e85adb2-1c6b-4941-b6f8-63b9abb12bdb",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-08-039",
         "alpha3": "WND",
         "slug": "wind-farm",
         "name": "Wind Farm",
@@ -163,7 +163,7 @@
     },
     {
         "id": "0026a2fa-cf51-468e-bc72-f6de4c66ed5a",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S02-98",
         "alpha3": "MUS",
         "slug": "musician",
         "name": "Musician",
@@ -181,7 +181,7 @@
     },
     {
         "id": "b13a6647-ff34-43a8-ad86-d2b1922eedbc",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-08-214",
         "alpha3": "PKC",
         "slug": "port-knot-city",
         "name": "Port Knot City",
@@ -199,7 +199,7 @@
     },
     {
         "id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-23-105",
         "alpha3": "LKC",
         "slug": "lake-knot-city",
         "name": "Lake Knot City",
@@ -217,7 +217,7 @@
     },
     {
         "id": "ad8c1305-218c-4cdf-add5-91d97fd676f4",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S23-84",
         "alpha3": "PTR",
         "slug": "peter-englert",
         "name": "Peter Englert",
@@ -253,7 +253,7 @@
     },
     {
         "id": "22f67e30-fa51-4b78-aa6a-df641b552705",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S23-06",
         "alpha3": "ENG",
         "slug": "engineer",
         "name": "Engineer",
@@ -271,7 +271,7 @@
     },
     {
         "id": "95202c8f-a685-4282-8023-e47204142c87",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S23-18",
         "alpha3": "ELD",
         "slug": "elder",
         "name": "Elder",
@@ -307,7 +307,7 @@
     },
     {
         "id": "af43739c-4a41-4c37-8339-937d927ad6d8",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S23-21",
         "alpha3": "CFT",
         "slug": "craftsman",
         "name": "Craftsman",
@@ -343,7 +343,7 @@
     },
     {
         "id": "08bdff60-a202-40b8-8d3d-dde96976bfed",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-23-086",
         "alpha3": "DSL",
         "slug": "distribution-center-south-of-lake-knot-city",
         "name": "Distribution Center South of Lake Knot City",
@@ -379,7 +379,7 @@
     },
     {
         "id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-37-355",
         "alpha3": "WTR",
         "slug": "weather-station",
         "name": "Weather Station",
@@ -415,7 +415,7 @@
     },
     {
         "id": "4744a350-a307-490a-b1f5-ffc5a83798ba",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S37-52",
         "alpha3": "TMF",
         "slug": "timefall-farm",
         "name": "Timefall Farm",
@@ -433,7 +433,7 @@
     },
     {
         "id": "9e566eba-db02-41f5-8071-f011d98df8b7",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S37-83",
         "alpha3": "COL",
         "slug": "collector",
         "name": "Collector",
@@ -469,7 +469,7 @@
     },
     {
         "id": "1a16cbc2-40c9-4f13-964b-4f9b81777345",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S37-71",
         "alpha3": "DIR",
         "slug": "film-director",
         "name": "Film Director",
@@ -487,7 +487,7 @@
     },
     {
         "id": "719a3fed-9ebb-4ba3-a5c7-70553394516a",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S37-65",
         "alpha3": "JNK",
         "slug": "junk-dealer",
         "name": "Junk Dealer",
@@ -523,7 +523,7 @@
     },
     {
         "id": "62cfb9f9-f52f-4744-b2ae-b46bfa4b0a83",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S37-89",
         "alpha3": "ART",
         "slug": "chiral-artists-studio",
         "name": "Chiral Artist's Studio",
@@ -541,7 +541,7 @@
     },
     {
         "id": "2d5caf01-dcfd-4e55-9a05-49f64d6213c4",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S37-80",
         "alpha3": "COS",
         "slug": "cosplayer",
         "name": "Cosplayer",
@@ -559,7 +559,7 @@
     },
     {
         "id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-27-141",
         "alpha3": "SKC",
         "slug": "south-knot-city",
         "name": "South Knot City",
@@ -577,7 +577,7 @@
     },
     {
         "id": "1e9a444a-bf09-4c99-9399-555ceb5324d0",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-37-008",
         "alpha3": "MAM",
         "slug": "mamas-lab",
         "name": "Mama's Lab",
@@ -595,7 +595,7 @@
     },
     {
         "id": "91a0846a-434b-4b08-b691-637577ec259e",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-41-053",
         "alpha3": "WNM",
         "slug": "waystation-north-of-mountain-knot-city",
         "name": "Waystation North of Mountain Knot City",
@@ -613,7 +613,7 @@
     },
     {
         "id": "ec8e8a1d-ae89-4ed7-a854-10b5cea15973",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-23-319",
         "alpha3": "IWL",
         "slug": "incinerator-west-of-lake-knot-city",
         "name": "Incinerator West of Lake Knot City",
@@ -649,7 +649,7 @@
     },
     {
         "id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-41-186",
         "alpha3": "DNM",
         "slug": "distribution-center-north-of-mountain-knot-city",
         "name": "Distribution Center North of Mountain Knot City",
@@ -667,7 +667,7 @@
     },
     {
         "id": "9a5da290-8c92-4ebc-8c1d-980668c36f36",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S41-76",
         "alpha3": "NOV",
         "slug": "novelists-son",
         "name": "Novelist's Son",
@@ -703,7 +703,7 @@
     },
     {
         "id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-41-057",
         "alpha3": "MKC",
         "slug": "mountain-knot-city",
         "name": "Mountain Knot City",
@@ -721,7 +721,7 @@
     },
     {
         "id": "8b0843db-c100-499a-a44a-d0057b352934",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S41-07",
         "alpha3": "DOC",
         "slug": "doctor",
         "name": "Doctor",
@@ -739,7 +739,7 @@
     },
     {
         "id": "79012bf2-5faf-4677-989c-c046471b8400",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S41-09",
         "alpha3": "RBT",
         "slug": "roboticist",
         "name": "Roboticist",
@@ -757,7 +757,7 @@
     },
     {
         "id": "319e9b0e-f031-4a9a-b1a6-bf0d75b15313",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S41-15",
         "alpha3": "MNT",
         "slug": "mountaineer",
         "name": "Mountaineer",
@@ -775,7 +775,7 @@
     },
     {
         "id": "70d1a23d-c33f-4b4d-9950-c66b20885d68",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S41-04",
         "alpha3": "PHT",
         "slug": "photographer",
         "name": "Photographer",
@@ -793,7 +793,7 @@
     },
     {
         "id": "ed779f6d-9468-4770-af88-988bd061d8fe",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S41-08",
         "alpha3": "SPT",
         "slug": "spiritualist",
         "name": "Spiritualist",
@@ -811,7 +811,7 @@
     },
     {
         "id": "603cd29f-8cb7-4e4f-857e-02cb389ab14e",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S41-87",
         "alpha3": "FTP",
         "slug": "first-prepper",
         "name": "First Prepper",
@@ -829,7 +829,7 @@
     },
     {
         "id": "3b432ede-3717-4f5b-be94-b64e892cfe99",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-41-090",
         "alpha3": "HRT",
         "slug": "heartmans-lab",
         "name": "Heartman's Lab",
@@ -883,7 +883,7 @@
     },
     {
         "id": "e9c4b81f-c7fb-4f5a-b0d0-090396ae7ee4",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S41-46",
         "alpha3": "VET",
         "slug": "veteran-porter",
         "name": "Veteran Porter",
