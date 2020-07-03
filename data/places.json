@@ -883,7 +883,7 @@
     },
     {
         "id": "86a1e6ea-e86c-4200-b939-6f46b7665978",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S41-19",
         "alpha3": "GEO",
         "slug": "geologist",
         "name": "Geologist",
@@ -901,7 +901,7 @@
     },
     {
         "id": "daef38ec-2a2c-43f2-b860-4accfa75ab73",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S41-22",
         "alpha3": "PAL",
         "slug": "paleontologist",
         "name": "Paleontologist",
@@ -937,7 +937,7 @@
     },
     {
         "id": "7a695253-c360-4984-b9b2-1041462c16c3",
-        "bsln": "X-UCA-00-000",
+        "bsln": "S41-24",
         "alpha3": "BIO",
         "slug": "evo-devo-biologist",
         "name": "Evo-Devo Biologist",
@@ -973,15 +973,16 @@
     },
     {
         "id": "5c0dd0cd-b7ed-42f0-933b-51ca1ee42912",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-41-011",
         "alpha3": "RLY",
         "slug": "chiral-relay",
         "name": "Chiral Relay",
         "notes": null,
         "type": "INFRA_OUTPOST",
+        "_type": "INFRA_WAYSTATION",
         "region": "REGION_WESTERN",
         "amenities": [],
-        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "tags": [ "ORDER_STORY" ],
         "geometry": {
             "point": {
                 "lng": -2558.54,
@@ -990,20 +991,38 @@
         }
     },
     {
+        "id": "079e8a2d-ad76-42f8-97b7-69881add0eed",
+        "bsln": "UCA-49-002",
+        "alpha3": "DNE",
+        "slug": "distribution-center-north-of-edge-knot-city",
+        "name": "Distribution Center North of Edge Knot City",
+        "notes": null,
+        "type": "INFRA_DISTRIBUTION",
+        "region": "REGION_WESTERN",
+        "amenities": [],
+        "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+        "geometry": {
+            "point": {
+                "lng": -189.93,
+                "lat": 954.45
+            }
+        }
+    },
+    {
         "id": "6ccae4ae-a669-4150-824a-1c170266151f",
-        "bsln": "X-UCA-00-000",
+        "bsln": "UCA-49-064",
         "alpha3": "EKC",
         "slug": "edge-knot-city",
         "name": "Edge Knot City",
         "notes": null,
         "type": "INFRA_CITY",
-        "region": "REGION_EASTERN",
+        "region": "REGION_WESTERN",
         "amenities": [],
         "tags": [ "ORDER_STORY" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": -626.31,
+                "lat": 157.33
             }
         }
     }
