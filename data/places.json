@@ -66,8 +66,26 @@
         "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": 1431.92,
+                "lat": 701.45
+            }
+        }
+    },
+    {
+        "id": "74bface4-c940-46b0-b1ff-87d707a7ebdd",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "bt-territory-74bface4",
+        "name": "BT Territory",
+        "notes": "Near [Waystation West of Capital Knot City][8a33adb1-886e-4f09-a91e-7dd3343e61e1].",
+        "type": "POI_LANDSCAPE",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [],
+        "geometry": {
+            "point": {
+                "lng": 850,
+                "lat": 1176
             }
         }
     },
@@ -81,11 +99,11 @@
         "type": "INFRA_INCINERATOR",
         "region": "REGION_EASTERN",
         "amenities": [],
-        "tags": [ "ORDER_STORY", "ORDER_DISPOSAL" ],
+        "tags": [ "AREA_BT", "ORDER_STORY", "ORDER_DISPOSAL" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": 525.71,
+                "lat": 329.02
             }
         }
     },
@@ -102,8 +120,8 @@
         "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": 304.45,
+                "lat": 1157.09
             }
         }
     },
@@ -120,8 +138,8 @@
         "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": 349.58,
+                "lat": 807.78
             }
         }
     },
@@ -138,8 +156,44 @@
         "tags": [ "ORDER_STANDARD" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": 102.92,
+                "lat": 538.83
+            }
+        }
+    },
+    {
+        "id": "7f555fa5-674c-4e0f-a446-bf06afd0a379",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "bt-territory-7f555fa5",
+        "name": "BT Territory",
+        "notes": "Near [Distribution Center West of Capital Knot City][c8d682fc-8d39-4339-8a5e-d33e91341be5].",
+        "type": "POI_LANDSCAPE",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [],
+        "geometry": {
+            "point": {
+                "lng": -305,
+                "lat": 647
+            }
+        }
+    },
+    {
+        "id": "92cd3ae6-6c8a-4e7e-8682-0ccce96afce4",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "bt-territory-92cd3ae6",
+        "name": "BT Territory",
+        "notes": "Near [Distribution Center West of Capital Knot City][c8d682fc-8d39-4339-8a5e-d33e91341be5].",
+        "type": "POI_LANDSCAPE",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [],
+        "geometry": {
+            "point": {
+                "lng": -100,
+                "lat": 466
             }
         }
     },
@@ -156,8 +210,26 @@
         "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": -441.22,
+                "lat": 264.47
+            }
+        }
+    },
+    {
+        "id": "1072150b-5ff7-4e3d-96c3-ac79e806a773",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "bt-territory-1072150b",
+        "name": "BT Territory",
+        "notes": "Near [Wind Farm][3e85adb2-1c6b-4941-b6f8-63b9abb12bdb].",
+        "type": "POI_FOREST",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [],
+        "geometry": {
+            "point": {
+                "lng": -100,
+                "lat": 466
             }
         }
     },
@@ -174,8 +246,8 @@
         "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": -1492.67,
+                "lat": 667.10
             }
         }
     },
@@ -192,8 +264,8 @@
         "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": -624.26,
+                "lat": -105.74
             }
         }
     },
@@ -210,8 +282,26 @@
         "tags": [ "ORDER_STANDARD" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": -982.11,
+                "lat": -121.17
+            }
+        }
+    },
+    {
+        "id": "c3baad0e-89a0-4cbb-b234-936653e4c88f",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "bt-territory-c3baad0e",
+        "name": "BT Territory",
+        "notes": "Near [Musician][0026a2fa-cf51-468e-bc72-f6de4c66ed5a].",
+        "type": "ECOTOPE_MOUNTAIN",
+        "region": "REGION_EASTERN",
+        "amenities": [],
+        "tags": [],
+        "geometry": {
+            "point": {
+                "lng": -1164,
+                "lat": 80
             }
         }
     },
@@ -228,8 +318,8 @@
         "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": -1985.96,
+                "lat": -476.38
             }
         }
     },
@@ -282,8 +372,8 @@
         "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": 2439.67,
+                "lat": 1392.24
             }
         }
     },
@@ -329,15 +419,15 @@
         "alpha3": null,
         "slug": "mule-camp-bb776d0d",
         "name": "MULE Camp",
-        "notes": "South of [Craftsman][af43739c-4a41-4c37-8339-937d927ad6d8] and north of [Elder][95202c8f-a685-4282-8023-e47204142c87].",
+        "notes": "South-east of [Craftsman][af43739c-4a41-4c37-8339-937d927ad6d8] and north of [Elder][95202c8f-a685-4282-8023-e47204142c87].",
         "type": "INFRA_MULE_CAMP",
         "region": "REGION_CENTRAL",
         "amenities": [],
         "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": 1607.53,
+                "lat": 1045
             }
         }
     },
@@ -408,8 +498,8 @@
         "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": 569.32,
+                "lat": 882.82
             }
         }
     },
@@ -444,8 +534,8 @@
         "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": 289.58,
+                "lat": -1231.54
             }
         }
     },
@@ -498,8 +588,8 @@
         "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": 1457.19,
+                "lat": 204.28
             }
         }
     },
@@ -669,17 +759,17 @@
         "id": "a492939b-b184-4de5-8245-277a8b7346ed",
         "bsln": "X-UCA-00-000",
         "alpha3": null,
-        "slug": "mule-camp-a492939b",
-        "name": "MULE Camp",
-        "notes": "North-west of [Incinerator West of Lake Knot City][ec8e8a1d-ae89-4ed7-a854-10b5cea15973].",
-        "type": "INFRA_MULE_CAMP",
+        "slug": "terrorist-camp-a492939b",
+        "name": "Terrorist Camp",
+        "notes": "South-west of [Incinerator West of Lake Knot City][ec8e8a1d-ae89-4ed7-a854-10b5cea15973].",
+        "type": "INFRA_TERRORIST_CAMP",
         "region": "REGION_CENTRAL",
         "amenities": [],
         "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": -751,
+                "lat": 1805
             }
         }
     },
@@ -723,8 +813,8 @@
         "id": "04b44723-e048-4bd9-8a54-b284d7ba7adb",
         "bsln": "X-UCA-00-000",
         "alpha3": null,
-        "slug": "mule-camp-04b44723",
-        "name": "MULE Camp",
+        "slug": "terrorist-04b44723",
+        "name": "Terrorist Camp",
         "notes": "South of [Distribution Center North of Mountain Knot City][67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a].",
         "type": "INFRA_MULE_CAMP",
         "region": "REGION_CENTRAL",
@@ -732,8 +822,8 @@
         "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": -1696.48,
+                "lat": 1266.70
             }
         }
     },
@@ -752,6 +842,24 @@
             "point": {
                 "lng": -1100.09,
                 "lat": 270.64
+            }
+        }
+    },
+    {
+        "id": "317289a0-1e37-4b88-ab8b-0ef6214ee258",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "bt-territory-317289a0",
+        "name": "BT Territory",
+        "notes": "North of [Mountain Knot City][e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b].",
+        "type": "POI_GRAVEYARD",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [],
+        "geometry": {
+            "point": {
+                "lng": -1075,
+                "lat": 686
             }
         }
     },
@@ -828,6 +936,24 @@
         }
     },
     {
+        "id": "c8339b79-e510-40fc-893b-daff6d5b69ad",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "bt-territory-c8339b79",
+        "name": "BT Territory",
+        "notes": "East of [Photographer][70d1a23d-c33f-4b4d-9950-c66b20885d68].",
+        "type": "POI_MOUNTAIN",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [],
+        "geometry": {
+            "point": {
+                "lng": -1842.17,
+                "lat": 676.98
+            }
+        }
+    },
+    {
         "id": "ed779f6d-9468-4770-af88-988bd061d8fe",
         "bsln": "S41-08",
         "alpha3": "SPT",
@@ -878,6 +1004,24 @@
             "point": {
                 "lng": -1213.11,
                 "lat": -221.44
+            }
+        }
+    },
+    {
+        "id": "23dd054e-0478-49d3-840b-5dc9700b1b7c",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "bt-territory-23dd054e",
+        "name": "BT Territory",
+        "notes": "South of [Heartman's Lab][3b432ede-3717-4f5b-be94-b64e892cfe99].",
+        "type": "POI_LANDSCAPE",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [],
+        "geometry": {
+            "point": {
+                "lng": -1203,
+                "lat": -857
             }
         }
     },
@@ -954,20 +1098,38 @@
         }
     },
     {
+        "id": "64085996-9112-4e02-92ed-238dfd378daa",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "slug": "bt-territory-64085996",
+        "name": "BT Territory",
+        "notes": "South of [Evo-Devo Biologist][7a695253-c360-4984-b9b2-1041462c16c3].",
+        "type": "POI_LANDSCAPE",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [],
+        "geometry": {
+            "point": {
+                "lng": -1975,
+                "lat": -1008
+            }
+        }
+    },
+    {
         "id": "b0546520-a047-4eac-abcf-fbb8bb9e605d",
         "bsln": "X-UCA-00-000",
         "alpha3": null,
-        "slug": "mule-camp-b0546520",
-        "name": "MULE Camp",
+        "slug": "terrorist-camp-b0546520",
+        "name": "TERRORIST Camp",
         "notes": "South of [Evo-Devo Biologist][7a695253-c360-4984-b9b2-1041462c16c3].",
-        "type": "INFRA_MULE_CAMP",
+        "type": "INFRA_TERRORIST_CAMP",
         "region": "REGION_CENTRAL",
         "amenities": [],
         "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": -1903.11,
+                "lat": -1415.70
             }
         }
     },
