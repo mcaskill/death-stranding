@@ -76,7 +76,7 @@ The structure of places and orders is a work in progress and open to suggestions
     "objectives": [
         {
             "type": "OBJ_MIN_QUANTITY",
-            "standard": 1,
+            "standard": "1",
             "premium": "1+"
         },
         {
@@ -85,15 +85,15 @@ The structure of places and orders is a work in progress and open to suggestions
             "premium": "<20%"
         }
     ],
-    "challenges": [
+    "obstacles": [
         {
-            "type": "OBJ_RECOVERY"
+            "type": "OBST_CARGO_RECOVERY_TERRORIST"
         },
         {
-            "type": "ORDER_FRAGILE"
+            "type": "OBST_CARGO_FRAGILE"
         },
         {
-            "type": "ECOTOPE_MOUNTAIN"
+            "type": "OBST_MOUNTAINOUS"
         }
     ],
     "category": "EVAL_MISCELLANEOUS",
@@ -101,7 +101,10 @@ The structure of places and orders is a work in progress and open to suggestions
         "standard": 43,
         "premium": 54
     },
-    "weight": "1.5 kg / S-1"
+    "weight": 1.5,
+    "content": [
+        "S-1"
+    ]
 }
 ```
 </details>
