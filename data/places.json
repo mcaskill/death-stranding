@@ -760,6 +760,25 @@
         }
     },
     {
+        "id": "f808a9ba-9861-42e8-84ea-a3220fe7adbe",
+        "bsln": "X-UCA-00-000",
+        "alpha3": null,
+        "knot": null,
+        "slug": "bt-territory-f808a9ba",
+        "name": "BT Territory",
+        "notes": "South Knot City Ruins. North of [South Knot City][46618d8c-e1b0-400d-8531-4dd21c1d0d27].",
+        "type": "ECOTOPE_RUINS",
+        "region": "REGION_CENTRAL",
+        "amenities": [],
+        "tags": [],
+        "geometry": {
+            "point": {
+                "lng": -1196,
+                "lat": -674
+            }
+        }
+    },
+    {
         "id": "91a0846a-434b-4b08-b691-637577ec259e",
         "bsln": "UCA-41-053",
         "alpha3": "WNM",
