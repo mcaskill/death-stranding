@@ -128,10 +128,9 @@ The structure of places and orders is a work in progress and open to suggestions
 
 ## Acknowledgements
 
-* [Death Stranding Delivery Checker](https://github.com/wagawo/derivery-checker) by @wagawo and @elriea2000 —
-  Initial inspiration for this project.
-* [Death Stranding Zipline Network Tool](https://github.com/smcnabb/death-stranding-zipline-network) by @smcnabb —
-  Coordinates and three-letter facility codes.
+* [Death Stranding Delivery Checker](https://nessworthy.me/deathstranding/) by Sean Nessworthy
+* [Death Stranding Delivery Checker](https://github.com/wagawo/derivery-checker) by @wagawo and @elriea2000 — Initial inspiration for this project.
+* [Death Stranding Zipline Network Tool](https://github.com/smcnabb/death-stranding-zipline-network) by @smcnabb — Coordinates and three-letter facility codes.
 
 ## Legal
 
