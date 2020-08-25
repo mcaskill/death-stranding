@@ -4,7 +4,7 @@
         "updated_at": "2020-07-05T00:30:00Z",
         "bson": "100",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "[URGENT] Delivery: Tranquilizers",
         "origin": {
             "place_id": "6fa149f8-2559-4282-8948-596dc624d578"
@@ -42,7 +42,7 @@
         "updated_at": "2020-07-05T00:30:00Z",
         "bson": "101",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals & Ceramics",
         "origin": {
             "place_id": "6fa149f8-2559-4282-8948-596dc624d578"
@@ -109,7 +109,7 @@
         "updated_at": "2020-07-05T00:30:00Z",
         "bson": "103",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Prototype Chiral Network Stabilizers",
         "origin": {
             "place_id": "6fa149f8-2559-4282-8948-596dc624d578"
@@ -147,7 +147,7 @@
         "updated_at": "2020-07-05T00:30:00Z",
         "bson": "104",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals",
         "origin": {
             "place_id": "6fa149f8-2559-4282-8948-596dc624d578"
@@ -180,7 +180,7 @@
         "updated_at": "2020-07-05T00:30:00Z",
         "bson": "105",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Emergency Cogeneration Unit Fuel",
         "origin": {
             "place_id": "6fa149f8-2559-4282-8948-596dc624d578"
@@ -218,7 +218,7 @@
         "updated_at": "2020-07-05T00:30:00Z",
         "bson": "106",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins",
         "origin": {
             "place_id": "6fa149f8-2559-4282-8948-596dc624d578"
@@ -256,7 +256,7 @@
         "updated_at": "2020-07-05T00:30:00Z",
         "bson": "107",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Prototype Ship Motors",
         "origin": {
             "place_id": "6fa149f8-2559-4282-8948-596dc624d578"
@@ -332,7 +332,7 @@
         "updated_at": "2020-07-05T00:30:00Z",
         "bson": "109",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Figurines by the Legnedary Artist \"SK\"",
         "origin": {
             "place_id": "6fa149f8-2559-4282-8948-596dc624d578"
@@ -375,7 +375,7 @@
         "updated_at": "2020-07-05T00:30:00Z",
         "bson": "110",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Old Components for Musical Instrument Repair",
         "origin": {
             "place_id": "6fa149f8-2559-4282-8948-596dc624d578"
@@ -413,7 +413,7 @@
         "updated_at": "2020-07-05T00:30:00Z",
         "bson": "111",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Outdoor Concert Footage",
         "origin": {
             "place_id": "6fa149f8-2559-4282-8948-596dc624d578"
@@ -451,7 +451,7 @@
         "updated_at": "2020-07-05T00:55:00Z",
         "bson": "112",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Fish from a BT Area",
         "origin": {
             "place_id": "8a33adb1-886e-4f09-a91e-7dd3343e61e1"
@@ -484,7 +484,7 @@
         "updated_at": "2020-07-05T00:55:00Z",
         "bson": "113",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins & Metals",
         "origin": {
             "place_id": "8a33adb1-886e-4f09-a91e-7dd3343e61e1"
@@ -518,7 +518,7 @@
         "updated_at": "2020-07-05T00:55:00Z",
         "bson": "114",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Retrieval: Structure Repair Devices Lost During Delivery",
         "origin": {
             "place_id": "8a33adb1-886e-4f09-a91e-7dd3343e61e1"
@@ -563,7 +563,7 @@
         "updated_at": "2020-07-05T00:55:00Z",
         "bson": "115",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Chiral Crystal Analyzers",
         "origin": {
             "place_id": "8a33adb1-886e-4f09-a91e-7dd3343e61e1"
@@ -601,7 +601,7 @@
         "updated_at": "2020-07-05T00:55:00Z",
         "bson": "116",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins",
         "origin": {
             "place_id": "8a33adb1-886e-4f09-a91e-7dd3343e61e1"
@@ -639,7 +639,7 @@
         "updated_at": "2020-07-05T01:20:00Z",
         "bson": "117",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Ceramics",
         "origin": {
             "place_id": "8a33adb1-886e-4f09-a91e-7dd3343e61e1"
@@ -705,7 +705,7 @@
         "updated_at": "2020-07-05T00:55:00Z",
         "bson": "119",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Emergency Natural Gas Supplies",
         "origin": {
             "place_id": "8a33adb1-886e-4f09-a91e-7dd3343e61e1"
@@ -751,7 +751,7 @@
         "updated_at": "2020-07-05T00:55:00Z",
         "bson": "120",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals",
         "origin": {
             "place_id": "8a33adb1-886e-4f09-a91e-7dd3343e61e1"
@@ -789,7 +789,7 @@
         "updated_at": "2020-07-05T01:20:00Z",
         "bson": "121",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Chiral Contamination Gauges",
         "origin": {
             "place_id": "8a33adb1-886e-4f09-a91e-7dd3343e61e1"
@@ -827,7 +827,7 @@
         "updated_at": "2020-07-05T00:55:00Z",
         "bson": "122",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Extremely Rare Monster Figurines",
         "origin": {
             "place_id": "8a33adb1-886e-4f09-a91e-7dd3343e61e1"
@@ -870,7 +870,7 @@
         "updated_at": "2020-07-05T00:55:00Z",
         "bson": "123",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Stress-relief Toys",
         "origin": {
             "place_id": "8a33adb1-886e-4f09-a91e-7dd3343e61e1"
@@ -913,7 +913,7 @@
         "updated_at": "2020-07-05T00:55:00Z",
         "bson": "124",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Series of Classic Novels - \"Porters in the Storm\"",
         "origin": {
             "place_id": "8a33adb1-886e-4f09-a91e-7dd3343e61e1"
@@ -956,7 +956,7 @@
         "updated_at": "2020-07-05T01:55:00Z",
         "bson": "125",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Forest Soil Samples",
         "origin": {
             "place_id": "c8d682fc-8d39-4339-8a5e-d33e91341be5"
@@ -1027,7 +1027,7 @@
         "updated_at": "2020-07-05T01:55:00Z",
         "bson": "127",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Pre-Stranding Movie Footage",
         "origin": {
             "place_id": "c8d682fc-8d39-4339-8a5e-d33e91341be5"
@@ -1157,7 +1157,7 @@
         "updated_at": "2020-07-05T02:00:00Z",
         "bson": "130",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Emergency Fuel",
         "origin": {
             "place_id": "c8d682fc-8d39-4339-8a5e-d33e91341be5"
@@ -1195,7 +1195,7 @@
         "updated_at": "2020-07-05T02:00:00Z",
         "bson": "131",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Materials for Urban Expansion",
         "origin": {
             "place_id": "c8d682fc-8d39-4339-8a5e-d33e91341be5"
@@ -1228,7 +1228,7 @@
         "updated_at": "2020-07-05T02:00:00Z",
         "bson": "132",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Vintage Sound Systems",
         "origin": {
             "place_id": "c8d682fc-8d39-4339-8a5e-d33e91341be5"
@@ -1274,7 +1274,7 @@
         "updated_at": "2020-07-05T15:45:00Z",
         "bson": "133",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Naturally Timefall-resistant Wood",
         "origin": {
             "place_id": "3e85adb2-1c6b-4941-b6f8-63b9abb12bdb"
@@ -1307,7 +1307,7 @@
         "updated_at": "2020-07-05T15:05:00Z",
         "bson": "134",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals",
         "origin": {
             "place_id": "3e85adb2-1c6b-4941-b6f8-63b9abb12bdb"
@@ -1345,7 +1345,7 @@
         "updated_at": "2020-07-05T15:05:00Z",
         "bson": "135",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Books that Foretell the Existence of the Beach",
         "origin": {
             "place_id": "3e85adb2-1c6b-4941-b6f8-63b9abb12bdb"
@@ -1378,7 +1378,7 @@
         "updated_at": "2020-07-05T15:05:00Z",
         "bson": "136",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals",
         "origin": {
             "place_id": "3e85adb2-1c6b-4941-b6f8-63b9abb12bdb"
@@ -1411,7 +1411,7 @@
         "updated_at": "2020-07-05T15:05:00Z",
         "bson": "137",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals",
         "origin": {
             "place_id": "3e85adb2-1c6b-4941-b6f8-63b9abb12bdb"
@@ -1444,7 +1444,7 @@
         "updated_at": "2020-07-05T15:05:00Z",
         "bson": "138",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Adrenaline-boosting Beverages",
         "origin": {
             "place_id": "3e85adb2-1c6b-4941-b6f8-63b9abb12bdb"
@@ -1477,7 +1477,7 @@
         "updated_at": "2020-07-05T15:05:00Z",
         "bson": "139",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: High-quality Timefall-resistant Wood",
         "origin": {
             "place_id": "3e85adb2-1c6b-4941-b6f8-63b9abb12bdb"
@@ -1510,7 +1510,7 @@
         "updated_at": "2020-07-05T15:45:00Z",
         "bson": "140",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "[URGENT] Delivery: Repaired Transformer Units",
         "origin": {
             "place_id": "3e85adb2-1c6b-4941-b6f8-63b9abb12bdb"
@@ -1549,7 +1549,7 @@
         "updated_at": "2020-07-05T15:05:00Z",
         "bson": "141",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Power Supply Inspection Tools",
         "origin": {
             "place_id": "3e85adb2-1c6b-4941-b6f8-63b9abb12bdb"
@@ -1582,7 +1582,7 @@
         "updated_at": "2020-07-05T15:05:00Z",
         "bson": "142",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins",
         "origin": {
             "place_id": "3e85adb2-1c6b-4941-b6f8-63b9abb12bdb"
@@ -1620,7 +1620,7 @@
         "updated_at": "2020-07-05T15:05:00Z",
         "bson": "143",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Cogeneration Units Lost During Delivery",
         "origin": {
             "place_id": "3e85adb2-1c6b-4941-b6f8-63b9abb12bdb"
@@ -1664,7 +1664,7 @@
         "updated_at": "2020-07-05T15:05:00Z",
         "bson": "144",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Ludens Art Books",
         "origin": {
             "place_id": "3e85adb2-1c6b-4941-b6f8-63b9abb12bdb"
@@ -1702,7 +1702,7 @@
         "updated_at": "2020-07-19T08:50:00Z",
         "bson": "145",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile & Time-sensitive): Large Consignment of Beer for a Party",
         "origin": {
             "place_id": "b13a6647-ff34-43a8-ad86-d2b1922eedbc"
@@ -1746,7 +1746,7 @@
         "updated_at": "2020-07-05T18:05:00Z",
         "bson": "146",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Chemcials",
         "origin": {
             "place_id": "b13a6647-ff34-43a8-ad86-d2b1922eedbc"
@@ -1780,7 +1780,7 @@
         "updated_at": "2020-07-05T18:05:00Z",
         "bson": "147",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "[URGENT] Delivery (Fragile): Precision Medical Instruments",
         "origin": {
             "place_id": "b13a6647-ff34-43a8-ad86-d2b1922eedbc"
@@ -1823,7 +1823,7 @@
         "updated_at": "2020-07-05T10:30:00Z",
         "bson": "148",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Special Alloys & Chemicals",
         "origin": {
             "place_id": "b13a6647-ff34-43a8-ad86-d2b1922eedbc"
@@ -1856,7 +1856,7 @@
         "updated_at": "2020-07-05T10:30:00Z",
         "bson": "149",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "[URGENT] Delivery: Large Consignment of Medical Supplies",
         "origin": {
             "place_id": "b13a6647-ff34-43a8-ad86-d2b1922eedbc"
@@ -1895,7 +1895,7 @@
         "updated_at": "2020-07-05T18:05:00Z",
         "bson": "150",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins",
         "origin": {
             "place_id": "b13a6647-ff34-43a8-ad86-d2b1922eedbc"
@@ -1928,7 +1928,7 @@
         "updated_at": "2020-07-05T10:30:00Z",
         "bson": "151",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Large Consignment of Reconstruction Materials",
         "origin": {
             "place_id": "b13a6647-ff34-43a8-ad86-d2b1922eedbc"
@@ -1966,7 +1966,7 @@
         "updated_at": "2020-07-05T18:05:00Z",
         "bson": "152",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins & Metals",
         "origin": {
             "place_id": "b13a6647-ff34-43a8-ad86-d2b1922eedbc"
@@ -2004,7 +2004,7 @@
         "updated_at": "2020-07-05T18:05:00Z",
         "bson": "153",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Retrieval: Precious Artworks Lost During Delivery",
         "origin": {
             "place_id": "b13a6647-ff34-43a8-ad86-d2b1922eedbc"
@@ -2045,7 +2045,7 @@
         "updated_at": "2020-07-05T18:05:00Z",
         "bson": "154",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Limited-edition Ludens Accessories",
         "origin": {
             "place_id": "b13a6647-ff34-43a8-ad86-d2b1922eedbc"
@@ -2088,7 +2088,7 @@
         "updated_at": "2020-07-05T18:05:00Z",
         "bson": "155",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Retro Sci-fi Adventure Games",
         "origin": {
             "place_id": "b13a6647-ff34-43a8-ad86-d2b1922eedbc"
@@ -2126,7 +2126,7 @@
         "updated_at": "2020-07-05T04:00:00Z",
         "bson": "156",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Samples of Microorganisms Found in a BT Area",
         "origin": {
             "place_id": "20868641-862c-4200-959f-52c5f42fb29b"
@@ -2164,7 +2164,7 @@
         "updated_at": "2020-07-05T04:00:00Z",
         "bson": "157",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Chemicals",
         "origin": {
             "place_id": "20868641-862c-4200-959f-52c5f42fb29b"
@@ -2202,7 +2202,7 @@
         "updated_at": "2020-07-05T04:00:00Z",
         "bson": "158",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Special Alloys & Chemicals",
         "origin": {
             "place_id": "20868641-862c-4200-959f-52c5f42fb29b"
@@ -2235,7 +2235,7 @@
         "updated_at": "2020-07-05T04:00:00Z",
         "bson": "159",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Vintage Sparkling Wine",
         "origin": {
             "place_id": "20868641-862c-4200-959f-52c5f42fb29b"
@@ -2276,7 +2276,7 @@
         "updated_at": "2020-07-05T04:00:00Z",
         "bson": "160",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Watches with Ludens Logo",
         "origin": {
             "place_id": "20868641-862c-4200-959f-52c5f42fb29b"
@@ -2309,7 +2309,7 @@
         "updated_at": "2020-07-05T04:00:00Z",
         "bson": "161",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: T-rex Models Stolen by MULEs",
         "origin": {
             "place_id": "20868641-862c-4200-959f-52c5f42fb29b"
@@ -2353,7 +2353,7 @@
         "updated_at": "2020-07-05T04:50:00Z",
         "bson": "162",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Classical Music Albums",
         "origin": {
             "place_id": "0026a2fa-cf51-468e-bc72-f6de4c66ed5a"
@@ -2391,7 +2391,7 @@
         "updated_at": "2020-07-05T04:50:00Z",
         "bson": "163",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Original Recordings of Classic Songs",
         "origin": {
             "place_id": "0026a2fa-cf51-468e-bc72-f6de4c66ed5a"
@@ -2429,7 +2429,7 @@
         "updated_at": "2020-07-05T04:50:00Z",
         "bson": "164",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Models of Mighty Machines",
         "origin": {
             "place_id": "0026a2fa-cf51-468e-bc72-f6de4c66ed5a"
@@ -2467,7 +2467,7 @@
         "updated_at": "2020-07-05T04:50:00Z",
         "bson": "165",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Limited-edition Icelandic Music",
         "origin": {
             "place_id": "0026a2fa-cf51-468e-bc72-f6de4c66ed5a"
@@ -2505,7 +2505,7 @@
         "updated_at": "2020-07-05T04:50:00Z",
         "bson": "166",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Mysterious Sci-fi Adventure Games",
         "origin": {
             "place_id": "0026a2fa-cf51-468e-bc72-f6de4c66ed5a"
@@ -2543,7 +2543,7 @@
         "updated_at": "2020-07-05T04:50:00Z",
         "bson": "167",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Special Alloys",
         "origin": {
             "place_id": "0026a2fa-cf51-468e-bc72-f6de4c66ed5a"
@@ -2576,7 +2576,7 @@
         "updated_at": "2020-07-05T04:50:00Z",
         "bson": "168",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Early 21st Century Rock Albums",
         "origin": {
             "place_id": "0026a2fa-cf51-468e-bc72-f6de4c66ed5a"
@@ -2614,7 +2614,7 @@
         "updated_at": "2020-07-05T04:50:00Z",
         "bson": "169",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Pre-Stranding Music Magazines",
         "origin": {
             "place_id": "0026a2fa-cf51-468e-bc72-f6de4c66ed5a"
@@ -2647,7 +2647,7 @@
         "updated_at": "2020-07-05T04:55:00Z",
         "bson": "170",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Special Alloys",
         "origin": {
             "place_id": "0026a2fa-cf51-468e-bc72-f6de4c66ed5a"
@@ -2685,7 +2685,7 @@
         "updated_at": "2020-07-05T04:55:00Z",
         "bson": "171",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins & Special Alloys",
         "origin": {
             "place_id": "0026a2fa-cf51-468e-bc72-f6de4c66ed5a"
@@ -2718,7 +2718,7 @@
         "updated_at": "2020-07-05T04:50:00Z",
         "bson": "172",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Retrieval: Sheet Music Washed Away by River",
         "origin": {
             "place_id": "0026a2fa-cf51-468e-bc72-f6de4c66ed5a"
@@ -2771,7 +2771,7 @@
         "updated_at": "2020-07-17T02:05:00Z",
         "bson": "173",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery (Fragile): Precision Instruments Stolen by MULEs",
         "origin": {
             "place_id": "22f67e30-fa51-4b78-aa6a-df641b552705"
@@ -2813,7 +2813,7 @@
         "updated_at": "2020-07-17T02:05:00Z",
         "bson": "174",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Energy Boosting Drinks",
         "origin": {
             "place_id": "22f67e30-fa51-4b78-aa6a-df641b552705"
@@ -2851,7 +2851,7 @@
         "updated_at": "2020-07-17T02:10:00Z",
         "bson": "175",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Scrap Metal Components from Vehicles",
         "origin": {
             "place_id": "22f67e30-fa51-4b78-aa6a-df641b552705"
@@ -2889,7 +2889,7 @@
         "updated_at": "2020-07-17T02:40:00Z",
         "bson": "176",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: High-performance Underwear",
         "origin": {
             "place_id": "22f67e30-fa51-4b78-aa6a-df641b552705"
@@ -2922,7 +2922,7 @@
         "updated_at": "2020-07-17T02:05:00Z",
         "bson": "177",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Machine Oil",
         "origin": {
             "place_id": "22f67e30-fa51-4b78-aa6a-df641b552705"
@@ -2956,7 +2956,7 @@
         "updated_at": "2020-07-17T02:10:00Z",
         "bson": "178",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Paintings of Married Life",
         "origin": {
             "place_id": "22f67e30-fa51-4b78-aa6a-df641b552705"
@@ -2989,7 +2989,7 @@
         "updated_at": "2020-07-17T02:05:00Z",
         "bson": "179",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Bulletproof Carbon",
         "origin": {
             "place_id": "22f67e30-fa51-4b78-aa6a-df641b552705"
@@ -3032,7 +3032,7 @@
         "updated_at": "2020-07-17T02:05:00Z",
         "bson": "180",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals",
         "origin": {
             "place_id": "22f67e30-fa51-4b78-aa6a-df641b552705"
@@ -3070,7 +3070,7 @@
         "updated_at": "2020-07-19T01:30:00Z",
         "bson": "181",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Ship Surveying Equipment",
         "origin": {
             "place_id": "22f67e30-fa51-4b78-aa6a-df641b552705"
@@ -3104,7 +3104,7 @@
         "updated_at": "2020-07-19T01:30:00Z",
         "bson": "182",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Custom-made Vehicle Inspection Tools",
         "origin": {
             "place_id": "22f67e30-fa51-4b78-aa6a-df641b552705"
@@ -3137,7 +3137,7 @@
         "updated_at": "2020-07-17T02:05:00Z",
         "bson": "183",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Transformer Units for a Vehicle Charger",
         "origin": {
             "place_id": "22f67e30-fa51-4b78-aa6a-df641b552705"
@@ -3175,7 +3175,7 @@
         "updated_at": "2020-07-17T02:05:00Z",
         "bson": "184",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals",
         "origin": {
             "place_id": "22f67e30-fa51-4b78-aa6a-df641b552705"
@@ -3208,7 +3208,7 @@
         "updated_at": "2020-07-17T02:05:00Z",
         "bson": "185",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Watchtower Examination Tools",
         "origin": {
             "place_id": "22f67e30-fa51-4b78-aa6a-df641b552705"
@@ -3251,7 +3251,7 @@
         "updated_at": "2020-07-17T02:05:00Z",
         "bson": "186",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Contaminated Soil Samples",
         "origin": {
             "place_id": "22f67e30-fa51-4b78-aa6a-df641b552705"
@@ -3289,7 +3289,7 @@
         "updated_at": "2020-07-17T02:05:00Z",
         "bson": "187",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals",
         "origin": {
             "place_id": "22f67e30-fa51-4b78-aa6a-df641b552705"
@@ -3322,7 +3322,7 @@
         "updated_at": "2020-07-17T02:30:00Z",
         "bson": "188",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Bonsai Tree Planting Kits",
         "origin": {
             "place_id": "95202c8f-a685-4282-8023-e47204142c87"
@@ -3355,7 +3355,7 @@
         "updated_at": "2020-07-17T02:30:00Z",
         "bson": "189",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Highly Prized Vintage Wine",
         "origin": {
             "place_id": "95202c8f-a685-4282-8023-e47204142c87"
@@ -3398,7 +3398,7 @@
         "updated_at": "2020-07-17T02:30:00Z",
         "bson": "190",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Retrieval: Cell-stimulation Medication Stolen by MULEs",
         "origin": {
             "place_id": "95202c8f-a685-4282-8023-e47204142c87"
@@ -3440,7 +3440,7 @@
         "updated_at": "2020-07-17T02:30:00Z",
         "bson": "191",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Encyclopedias of Classic Weapons and Tools",
         "origin": {
             "place_id": "95202c8f-a685-4282-8023-e47204142c87"
@@ -3479,7 +3479,7 @@
         "updated_at": "2020-07-17T02:30:00Z",
         "bson": "192",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Antique Watches",
         "origin": {
             "place_id": "95202c8f-a685-4282-8023-e47204142c87"
@@ -3522,7 +3522,7 @@
         "updated_at": "2020-07-17T02:30:00Z",
         "bson": "193",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Musical Masterpieces Stored on Old Media",
         "origin": {
             "place_id": "95202c8f-a685-4282-8023-e47204142c87"
@@ -3568,7 +3568,7 @@
         "updated_at": "2020-07-17T02:30:00Z",
         "bson": "194",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Natural-tasting Artifical Liquor",
         "origin": {
             "place_id": "95202c8f-a685-4282-8023-e47204142c87"
@@ -3606,7 +3606,7 @@
         "updated_at": "2020-07-17T02:30:00Z",
         "bson": "195",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Hand-made Pickles",
         "origin": {
             "place_id": "95202c8f-a685-4282-8023-e47204142c87"
@@ -3639,7 +3639,7 @@
         "updated_at": "2020-07-17T02:30:00Z",
         "bson": "196",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Reports from the Early Days of the Death Stranding",
         "origin": {
             "place_id": "95202c8f-a685-4282-8023-e47204142c87"
@@ -3672,7 +3672,7 @@
         "updated_at": "2020-07-17T02:30:00Z",
         "bson": "197",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Collection of Photos",
         "origin": {
             "place_id": "95202c8f-a685-4282-8023-e47204142c87"
@@ -3710,7 +3710,7 @@
         "updated_at": "2020-07-17T02:30:00Z",
         "bson": "198",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Game Consoles for Children",
         "origin": {
             "place_id": "95202c8f-a685-4282-8023-e47204142c87"
@@ -3749,7 +3749,7 @@
         "updated_at": "2020-07-19T02:55:00Z",
         "bson": "199",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Newly Developed Tools",
         "origin": {
             "place_id": "af43739c-4a41-4c37-8339-937d927ad6d8"
@@ -3787,7 +3787,7 @@
         "updated_at": "2020-07-19T02:55:00Z",
         "bson": "200",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Junk Vehicle Parts",
         "origin": {
             "place_id": "af43739c-4a41-4c37-8339-937d927ad6d8"
@@ -3820,7 +3820,7 @@
         "updated_at": "2020-07-19T02:55:00Z",
         "bson": "201",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Medical Supplies",
         "origin": {
             "place_id": "af43739c-4a41-4c37-8339-937d927ad6d8"
@@ -3864,7 +3864,7 @@
         "updated_at": "2020-07-19T02:55:00Z",
         "bson": "202",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Famous Writer's Fountain Pens",
         "origin": {
             "place_id": "af43739c-4a41-4c37-8339-937d927ad6d8"
@@ -3908,7 +3908,7 @@
         "updated_at": "2020-07-19T03:00:00Z",
         "bson": "203",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Collection: Junk Electrical Components",
         "origin": {
             "place_id": "af43739c-4a41-4c37-8339-937d927ad6d8"
@@ -3993,7 +3993,7 @@
         "updated_at": "2020-07-19T03:00:00Z",
         "bson": "205",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Items Used by Old Robot-Lovers",
         "origin": {
             "place_id": "af43739c-4a41-4c37-8339-937d927ad6d8"
@@ -4027,7 +4027,7 @@
         "updated_at": "2020-07-19T03:00:00Z",
         "bson": "206",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Custom-Made Polishing Tools",
         "origin": {
             "place_id": "af43739c-4a41-4c37-8339-937d927ad6d8"
@@ -4065,7 +4065,7 @@
         "updated_at": "2020-07-19T03:00:00Z",
         "bson": "207",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Chiral Printer Parts",
         "origin": {
             "place_id": "af43739c-4a41-4c37-8339-937d927ad6d8"
@@ -4103,7 +4103,7 @@
         "updated_at": "2020-07-19T03:00:00Z",
         "bson": "208",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals & Speical Alloys",
         "origin": {
             "place_id": "af43739c-4a41-4c37-8339-937d927ad6d8"
@@ -4136,7 +4136,7 @@
         "updated_at": "2020-07-19T03:00:00Z",
         "bson": "209",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Antique Housewares",
         "origin": {
             "place_id": "af43739c-4a41-4c37-8339-937d927ad6d8"
@@ -4182,7 +4182,7 @@
         "updated_at": "2020-07-19T03:00:00Z",
         "bson": "210",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Detailed Model Weapons",
         "origin": {
             "place_id": "af43739c-4a41-4c37-8339-937d927ad6d8"
@@ -4220,7 +4220,7 @@
         "updated_at": "2020-07-19T03:00:00Z",
         "bson": "211",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Smples of Food Rations",
         "origin": {
             "place_id": "af43739c-4a41-4c37-8339-937d927ad6d8"
@@ -4259,7 +4259,7 @@
         "updated_at": "2020-07-19T03:00:00Z",
         "bson": "212",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins",
         "origin": {
             "place_id": "af43739c-4a41-4c37-8339-937d927ad6d8"
@@ -4293,7 +4293,7 @@
         "updated_at": "2020-07-19T03:00:00Z",
         "bson": "213",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Watchtower Radar Repair Materials",
         "origin": {
             "place_id": "af43739c-4a41-4c37-8339-937d927ad6d8"
@@ -4339,7 +4339,7 @@
         "updated_at": "2020-07-19T03:00:00Z",
         "bson": "214",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Network Facility Repair Equipment",
         "origin": {
             "place_id": "af43739c-4a41-4c37-8339-937d927ad6d8"
@@ -4382,7 +4382,7 @@
         "updated_at": "2020-07-19T03:00:00Z",
         "bson": "215",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Chemicals",
         "origin": {
             "place_id": "af43739c-4a41-4c37-8339-937d927ad6d8"
@@ -4415,7 +4415,7 @@
         "updated_at": "2020-07-12T00:30:00Z",
         "bson": "216",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Timefall Porter Beer",
         "origin": {
             "place_id": "4744a350-a307-490a-b1f5-ffc5a83798ba"
@@ -4453,7 +4453,7 @@
         "updated_at": "2020-07-12T00:30:00Z",
         "bson": "217",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Old-fashioned Fresh Bread",
         "origin": {
             "place_id": "4744a350-a307-490a-b1f5-ffc5a83798ba"
@@ -4497,7 +4497,7 @@
         "updated_at": "2020-07-12T00:30:00Z",
         "bson": "218",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Tasty & Nutritious Foodstuffs",
         "origin": {
             "place_id": "4744a350-a307-490a-b1f5-ffc5a83798ba"
@@ -4536,7 +4536,7 @@
         "updated_at": "2020-07-12T00:30:00Z",
         "bson": "219",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Timefall Porter Beer",
         "origin": {
             "place_id": "4744a350-a307-490a-b1f5-ffc5a83798ba"
@@ -4574,7 +4574,7 @@
         "updated_at": "2020-07-12T00:30:00Z",
         "bson": "220",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Retrieval: Emergency Transformer Units Stolen by MULEs",
         "origin": {
             "place_id": "4744a350-a307-490a-b1f5-ffc5a83798ba"
@@ -4613,7 +4613,7 @@
         "updated_at": "2020-07-12T00:30:00Z",
         "bson": "221",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Timefall Porter Beer",
         "origin": {
             "place_id": "4744a350-a307-490a-b1f5-ffc5a83798ba"
@@ -4656,7 +4656,7 @@
         "updated_at": "2020-07-19T02:25:00Z",
         "bson": "222",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Timefall Porter Beer",
         "origin": {
             "place_id": "4744a350-a307-490a-b1f5-ffc5a83798ba"
@@ -4697,7 +4697,7 @@
         "updated_at": "2020-07-12T00:55:00Z",
         "bson": "223",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Traditional Vegetable Juice Druinks",
         "origin": {
             "place_id": "4744a350-a307-490a-b1f5-ffc5a83798ba"
@@ -4735,7 +4735,7 @@
         "updated_at": "2020-07-12T00:30:00Z",
         "bson": "224",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Pure Artificial Liquor",
         "origin": {
             "place_id": "4744a350-a307-490a-b1f5-ffc5a83798ba"
@@ -4778,7 +4778,7 @@
         "updated_at": "2020-07-19T02:25:00Z",
         "bson": "225",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Fresh Hot Dog Buns",
         "origin": {
             "place_id": "4744a350-a307-490a-b1f5-ffc5a83798ba"
@@ -4821,7 +4821,7 @@
         "updated_at": "2020-07-12T00:30:00Z",
         "bson": "226",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Old-fashioned Fresh Bread",
         "origin": {
             "place_id": "4744a350-a307-490a-b1f5-ffc5a83798ba"
@@ -4864,7 +4864,7 @@
         "updated_at": "2020-07-19T02:25:00Z",
         "bson": "227",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Timefall Porter Beer",
         "origin": {
             "place_id": "4744a350-a307-490a-b1f5-ffc5a83798ba"
@@ -4907,7 +4907,7 @@
         "updated_at": "2020-07-12T00:30:00Z",
         "bson": "228",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile & Time-sensitive): Large Consignment of Beer for a Party",
         "origin": {
             "place_id": "4744a350-a307-490a-b1f5-ffc5a83798ba"
@@ -4951,7 +4951,7 @@
         "updated_at": "2020-07-19T02:25:00Z",
         "bson": "229",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Timefall Porter",
         "origin": {
             "place_id": "4744a350-a307-490a-b1f5-ffc5a83798ba"
@@ -4989,7 +4989,7 @@
         "updated_at": "2020-07-12T00:30:00Z",
         "bson": "230",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Fresh, Fluffy Bread",
         "origin": {
             "place_id": "4744a350-a307-490a-b1f5-ffc5a83798ba"
@@ -5032,7 +5032,7 @@
         "updated_at": "2020-07-12T00:30:00Z",
         "bson": "231",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Liquor Made with Mountain Spring Water",
         "origin": {
             "place_id": "4744a350-a307-490a-b1f5-ffc5a83798ba"
@@ -5075,7 +5075,7 @@
         "updated_at": "2020-07-18T20:45:00Z",
         "bson": "232",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Strangely Compelling Paintings",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5113,7 +5113,7 @@
         "updated_at": "2020-07-18T19:10:00Z",
         "bson": "233",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Junked Mobile Devices Containing Rare Metals",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5151,7 +5151,7 @@
         "updated_at": "2020-07-18T20:40:00Z",
         "bson": "234",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals & Special Alloys",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5184,7 +5184,7 @@
         "updated_at": "2020-07-18T19:10:00Z",
         "bson": "235",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Old Components Stolen by MULEs",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5223,7 +5223,7 @@
         "updated_at": "2020-07-18T19:10:00Z",
         "bson": "236",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Anti-rust Solvents Lost During Delivery",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5311,7 +5311,7 @@
         "updated_at": "2020-07-18T20:40:00Z",
         "bson": "238",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Glass Reclaimed from Junk",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5354,7 +5354,7 @@
         "updated_at": "2020-07-18T20:40:00Z",
         "bson": "239",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Special Glassworking Tools",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5387,7 +5387,7 @@
         "updated_at": "2020-07-18T20:40:00Z",
         "bson": "240",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins & Chemicals",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5459,7 +5459,7 @@
         "updated_at": "2020-07-18T20:40:00Z",
         "bson": "242",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Antique Cameras",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5500,7 +5500,7 @@
         "updated_at": "2020-07-18T20:40:00Z",
         "bson": "243",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Objects From an Ancient Civilization",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5542,7 +5542,7 @@
         "updated_at": "2020-07-18T19:20:00Z",
         "bson": "244",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Old Media Containing 20th-century Movies",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5588,7 +5588,7 @@
         "updated_at": "2020-07-18T20:40:00Z",
         "bson": "245",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Controversial Video Games Loved by a Popular TV Host",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5626,7 +5626,7 @@
         "updated_at": "2020-07-18T20:40:00Z",
         "bson": "246",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Cult Portable Gaming Devices",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5669,7 +5669,7 @@
         "updated_at": "2020-07-18T20:40:00Z",
         "bson": "247",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Antique Furniture",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5703,7 +5703,7 @@
         "updated_at": "2020-07-18T19:20:00Z",
         "bson": "248",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Old War Footage",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5737,7 +5737,7 @@
         "updated_at": "2020-07-18T19:20:00Z",
         "bson": "249",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Discs Containing Old Action Movies",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5775,7 +5775,7 @@
         "updated_at": "2020-07-18T19:20:00Z",
         "bson": "250",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Special Alloys",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5808,7 +5808,7 @@
         "updated_at": "2020-07-18T19:20:00Z",
         "bson": "251",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Components from an Old Aircraft",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5847,7 +5847,7 @@
         "updated_at": "2020-07-18T20:45:00Z",
         "bson": "252",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Ceramics & Special Alloys",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5886,7 +5886,7 @@
         "updated_at": "2020-07-18T19:20:00Z",
         "bson": "253",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Special Alloys",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5919,7 +5919,7 @@
         "updated_at": "2020-07-18T19:20:00Z",
         "bson": "254",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals & Chemicals",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
@@ -5952,7 +5952,7 @@
         "updated_at": "2020-07-18T21:00:00Z",
         "bson": "255",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Family Furniture",
         "origin": {
             "place_id": "62cfb9f9-f52f-4744-b2ae-b46bfa4b0a83"
@@ -5991,7 +5991,7 @@
         "updated_at": "2020-07-18T21:00:00Z",
         "bson": "256",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Special Glassware",
         "origin": {
             "place_id": "62cfb9f9-f52f-4744-b2ae-b46bfa4b0a83"
@@ -6030,7 +6030,7 @@
         "updated_at": "2020-07-18T21:00:00Z",
         "bson": "257",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Much Loved Children's Books",
         "origin": {
             "place_id": "62cfb9f9-f52f-4744-b2ae-b46bfa4b0a83"
@@ -6063,7 +6063,7 @@
         "updated_at": "2020-07-18T21:00:00Z",
         "bson": "258",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Ornaments Lost Near the Crater Lake",
         "origin": {
             "place_id": "62cfb9f9-f52f-4744-b2ae-b46bfa4b0a83"
@@ -6113,7 +6113,7 @@
         "updated_at": "2020-07-18T21:05:00Z",
         "bson": "259",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Replica Egyptian Necklaces Lost During Delivery",
         "origin": {
             "place_id": "62cfb9f9-f52f-4744-b2ae-b46bfa4b0a83"
@@ -6151,7 +6151,7 @@
         "updated_at": "2020-07-18T21:00:00Z",
         "bson": "260",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Large Pouches for Carrying Cargo",
         "origin": {
             "place_id": "62cfb9f9-f52f-4744-b2ae-b46bfa4b0a83"
@@ -6194,7 +6194,7 @@
         "updated_at": "2020-07-18T21:00:00Z",
         "bson": "261",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Highly Durable Pouches",
         "origin": {
             "place_id": "62cfb9f9-f52f-4744-b2ae-b46bfa4b0a83"
@@ -6232,7 +6232,7 @@
         "updated_at": "2020-07-18T21:00:00Z",
         "bson": "262",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Solvents for Making Chiral Paint",
         "origin": {
             "place_id": "62cfb9f9-f52f-4744-b2ae-b46bfa4b0a83"
@@ -6275,7 +6275,7 @@
         "updated_at": "2020-07-18T21:00:00Z",
         "bson": "263",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Antique Curios",
         "origin": {
             "place_id": "62cfb9f9-f52f-4744-b2ae-b46bfa4b0a83"
@@ -6313,7 +6313,7 @@
         "updated_at": "2020-07-18T21:00:00Z",
         "bson": "264",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Pure Chiralium Fashion Accessories",
         "origin": {
             "place_id": "62cfb9f9-f52f-4744-b2ae-b46bfa4b0a83"
@@ -6356,7 +6356,7 @@
         "updated_at": "2020-07-18T21:05:00Z",
         "bson": "265",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Pure Chiralium Fashion Accessories",
         "origin": {
             "place_id": "62cfb9f9-f52f-4744-b2ae-b46bfa4b0a83"
@@ -6394,7 +6394,7 @@
         "updated_at": "2020-07-18T21:00:00Z",
         "bson": "266",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Chiral-encrusted Watches",
         "origin": {
             "place_id": "62cfb9f9-f52f-4744-b2ae-b46bfa4b0a83"
@@ -6435,7 +6435,7 @@
         "updated_at": "2020-07-12T20:40:00Z",
         "bson": "267",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Aromatic Coffee-making Kits",
         "origin": {
             "place_id": "91a0846a-434b-4b08-b691-637577ec259e"
@@ -6468,7 +6468,7 @@
         "updated_at": "2020-07-12T20:40:00Z",
         "bson": "268",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Special Alloys",
         "origin": {
             "place_id": "91a0846a-434b-4b08-b691-637577ec259e"
@@ -6501,7 +6501,7 @@
         "updated_at": "2020-07-12T19:25:00Z",
         "bson": "269",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Oxytocin Lost Amid Falling Rocks During Delivery",
         "origin": {
             "place_id": "91a0846a-434b-4b08-b691-637577ec259e"
@@ -6549,7 +6549,7 @@
         "updated_at": "2020-07-12T20:10:00Z",
         "bson": "270",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Timefall-snow-resistant Clothing",
         "origin": {
             "place_id": "91a0846a-434b-4b08-b691-637577ec259e"
@@ -6592,7 +6592,7 @@
         "updated_at": "2020-07-12T19:30:00Z",
         "bson": "271",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins",
         "origin": {
             "place_id": "91a0846a-434b-4b08-b691-637577ec259e"
@@ -6630,7 +6630,7 @@
         "updated_at": "2020-07-12T19:30:00Z",
         "bson": "272",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Food Enriched with Extracts from Fish Found in BT Areas",
         "origin": {
             "place_id": "91a0846a-434b-4b08-b691-637577ec259e"
@@ -6669,7 +6669,7 @@
         "updated_at": "2020-07-12T19:30:00Z",
         "bson": "273",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins & Metals",
         "origin": {
             "place_id": "91a0846a-434b-4b08-b691-637577ec259e"
@@ -6712,7 +6712,7 @@
         "updated_at": "2020-07-12T19:30:00Z",
         "bson": "274",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins & Special Alloys",
         "origin": {
             "place_id": "91a0846a-434b-4b08-b691-637577ec259e"
@@ -6751,7 +6751,7 @@
         "updated_at": "2020-07-12T19:30:00Z",
         "bson": "275",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Old US Army Rations",
         "origin": {
             "place_id": "91a0846a-434b-4b08-b691-637577ec259e"
@@ -6789,7 +6789,7 @@
         "updated_at": "2020-07-12T19:30:00Z",
         "bson": "276",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Reports from the Early Days of the Death Stranding",
         "origin": {
             "place_id": "91a0846a-434b-4b08-b691-637577ec259e"
@@ -6822,7 +6822,7 @@
         "updated_at": "2020-07-12T19:30:00Z",
         "bson": "277",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Special Alloys & Chemicals",
         "origin": {
             "place_id": "91a0846a-434b-4b08-b691-637577ec259e"
@@ -6860,7 +6860,7 @@
         "updated_at": "2020-07-12T19:30:00Z",
         "bson": "278",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Prototype Chiral Allergy Medication",
         "origin": {
             "place_id": "91a0846a-434b-4b08-b691-637577ec259e"
@@ -6898,7 +6898,7 @@
         "updated_at": "2020-07-12T20:40:00Z",
         "bson": "279",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Chilled Delivery: Frozen Organism Samples",
         "origin": {
             "place_id": "91a0846a-434b-4b08-b691-637577ec259e"
@@ -6937,7 +6937,7 @@
         "updated_at": "2020-07-12T19:30:00Z",
         "bson": "280",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Food Enriched with Extracts from Fish Found in BT Areas",
         "origin": {
             "place_id": "91a0846a-434b-4b08-b691-637577ec259e"
@@ -6975,7 +6975,7 @@
         "updated_at": "2020-07-12T19:30:00Z",
         "bson": "281",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Special Alloys",
         "origin": {
             "place_id": "91a0846a-434b-4b08-b691-637577ec259e"
@@ -7042,7 +7042,7 @@
         "updated_at": "2020-07-12T19:35:00Z",
         "bson": "283",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Chiral Encryption Devices Stolen by Terrorists",
         "origin": {
             "place_id": "91a0846a-434b-4b08-b691-637577ec259e"
@@ -7084,7 +7084,7 @@
         "updated_at": "2020-07-12T19:30:00Z",
         "bson": "284",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins",
         "origin": {
             "place_id": "91a0846a-434b-4b08-b691-637577ec259e"
@@ -7127,7 +7127,7 @@
         "updated_at": "2020-07-11T22:30:00Z",
         "bson": "285",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: High-bounce Springs for Bot Repair",
         "origin": {
             "place_id": "79012bf2-5faf-4677-989c-c046471b8400"
@@ -7165,7 +7165,7 @@
         "updated_at": "2020-07-11T23:05:00Z",
         "bson": "286",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Prototype Medical Devices",
         "origin": {
             "place_id": "79012bf2-5faf-4677-989c-c046471b8400"
@@ -7211,7 +7211,7 @@
         "updated_at": "2020-07-11T23:05:00Z",
         "bson": "287",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Realistic Cryptobiote Models",
         "origin": {
             "place_id": "79012bf2-5faf-4677-989c-c046471b8400"
@@ -7249,7 +7249,7 @@
         "updated_at": "2020-07-11T23:05:00Z",
         "bson": "288",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Miniature Weather Radars",
         "origin": {
             "place_id": "79012bf2-5faf-4677-989c-c046471b8400"
@@ -7295,7 +7295,7 @@
         "updated_at": "2020-07-11T23:05:00Z",
         "bson": "289",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Devices for Timefall Analysis",
         "origin": {
             "place_id": "79012bf2-5faf-4677-989c-c046471b8400"
@@ -7333,7 +7333,7 @@
         "updated_at": "2020-07-11T23:05:00Z",
         "bson": "290",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Portable Medical Devices",
         "origin": {
             "place_id": "79012bf2-5faf-4677-989c-c046471b8400"
@@ -7366,7 +7366,7 @@
         "updated_at": "2020-07-11T23:05:00Z",
         "bson": "291",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Prototype High-performance Servomotors",
         "origin": {
             "place_id": "79012bf2-5faf-4677-989c-c046471b8400"
@@ -7407,7 +7407,7 @@
         "updated_at": "2020-07-12T03:10:00Z",
         "bson": "292",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Chilled Delivery: Glacier Ice",
         "origin": {
             "place_id": "319e9b0e-f031-4a9a-b1a6-bf0d75b15313"
@@ -7445,7 +7445,7 @@
         "updated_at": "2020-07-12T03:10:00Z",
         "bson": "293",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Pediatric Devices Lost during Delivery",
         "origin": {
             "place_id": "319e9b0e-f031-4a9a-b1a6-bf0d75b15313"
@@ -7490,7 +7490,7 @@
         "updated_at": "2020-07-12T03:15:00Z",
         "bson": "294",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Cold-resistant Materials Lost During Delivery",
         "origin": {
             "place_id": "319e9b0e-f031-4a9a-b1a6-bf0d75b15313"
@@ -7631,7 +7631,7 @@
         "updated_at": "2020-07-12T03:20:00Z",
         "bson": "297",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Chilled Delivery: Ice from the Snowy Mountains",
         "origin": {
             "place_id": "319e9b0e-f031-4a9a-b1a6-bf0d75b15313"
@@ -7674,7 +7674,7 @@
         "updated_at": "2020-07-12T03:20:00Z",
         "bson": "298",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Winter Clothes",
         "origin": {
             "place_id": "319e9b0e-f031-4a9a-b1a6-bf0d75b15313"
@@ -7713,7 +7713,7 @@
         "updated_at": "2020-07-12T04:25:00Z",
         "bson": "299",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Special Glassware",
         "origin": {
             "place_id": "70d1a23d-c33f-4b4d-9950-c66b20885d68"
@@ -7751,7 +7751,7 @@
         "updated_at": "2020-07-12T04:25:00Z",
         "bson": "300",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Photos of an Extinct Creature Being Excavated",
         "origin": {
             "place_id": "70d1a23d-c33f-4b4d-9950-c66b20885d68"
@@ -7789,7 +7789,7 @@
         "updated_at": "2020-07-12T05:00:00Z",
         "bson": "301",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Mountaineer's Repaired Cameras",
         "origin": {
             "place_id": "70d1a23d-c33f-4b4d-9950-c66b20885d68"
@@ -7827,7 +7827,7 @@
         "updated_at": "2020-07-12T04:25:00Z",
         "bson": "302",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Mural Fragments Lost During Delivery",
         "origin": {
             "place_id": "70d1a23d-c33f-4b4d-9950-c66b20885d68"
@@ -7871,7 +7871,7 @@
         "updated_at": "2020-07-12T04:25:00Z",
         "bson": "303",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Retrieval (Fragile): Combustible Chemicals Stolen by Terrorists",
         "origin": {
             "place_id": "70d1a23d-c33f-4b4d-9950-c66b20885d68"
@@ -7919,7 +7919,7 @@
         "updated_at": "2020-07-12T04:25:00Z",
         "bson": "304",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Cameras Lost in a BT Area",
         "origin": {
             "place_id": "70d1a23d-c33f-4b4d-9950-c66b20885d68"
@@ -7961,7 +7961,7 @@
         "updated_at": "2020-07-12T04:30:00Z",
         "bson": "305",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Camera Parts Lost during Delivery",
         "origin": {
             "place_id": "70d1a23d-c33f-4b4d-9950-c66b20885d68"
@@ -8055,7 +8055,7 @@
         "updated_at": "2020-07-12T04:35:00Z",
         "bson": "307",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Photo-restoring Chemicals",
         "origin": {
             "place_id": "70d1a23d-c33f-4b4d-9950-c66b20885d68"
@@ -8101,7 +8101,7 @@
         "updated_at": "2020-07-12T04:35:00Z",
         "bson": "308",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Precious Media from the Analog Age",
         "origin": {
             "place_id": "70d1a23d-c33f-4b4d-9950-c66b20885d68"
@@ -8134,7 +8134,7 @@
         "updated_at": "2020-07-12T04:35:00Z",
         "bson": "309",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Photographs from the Start of the Death Stranding",
         "origin": {
             "place_id": "70d1a23d-c33f-4b4d-9950-c66b20885d68"
@@ -8172,7 +8172,7 @@
         "updated_at": "2020-07-12T04:35:00Z",
         "bson": "310",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Photographic Record Book(s) of the Vietnam War",
         "origin": {
             "place_id": "70d1a23d-c33f-4b4d-9950-c66b20885d68"
@@ -8210,7 +8210,7 @@
         "updated_at": "2020-07-12T05:00:00Z",
         "bson": "311",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Footage Taken Near Edge Knot City",
         "origin": {
             "place_id": "70d1a23d-c33f-4b4d-9950-c66b20885d68"
@@ -8248,7 +8248,7 @@
         "updated_at": "2020-07-12T03:35:00Z",
         "bson": "312",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: New Hand Cream",
         "origin": {
             "place_id": "ed779f6d-9468-4770-af88-988bd061d8fe"
@@ -8281,7 +8281,7 @@
         "updated_at": "2020-07-12T03:35:00Z",
         "bson": "313",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Euphoria-inducing Beverages",
         "origin": {
             "place_id": "ed779f6d-9468-4770-af88-988bd061d8fe"
@@ -8324,7 +8324,7 @@
         "updated_at": "2020-07-12T03:35:00Z",
         "bson": "314",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Baby-baffling Educational Products",
         "origin": {
             "place_id": "ed779f6d-9468-4770-af88-988bd061d8fe"
@@ -8367,7 +8367,7 @@
         "updated_at": "2020-07-12T03:35:00Z",
         "bson": "315",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Banned Books Lost During Delivery",
         "origin": {
             "place_id": "ed779f6d-9468-4770-af88-988bd061d8fe"
@@ -8415,7 +8415,7 @@
         "updated_at": "2020-07-12T03:35:00Z",
         "bson": "316",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Spiritual Energy Fuel",
         "origin": {
             "place_id": "ed779f6d-9468-4770-af88-988bd061d8fe"
@@ -8461,7 +8461,7 @@
         "updated_at": "2020-07-12T03:35:00Z",
         "bson": "317",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): High-class Jewelry to Go with Medieval Clothing",
         "origin": {
             "place_id": "ed779f6d-9468-4770-af88-988bd061d8fe"
@@ -8499,7 +8499,7 @@
         "updated_at": "2020-07-12T03:35:00Z",
         "bson": "318",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Cold-sensitive Spiritual Medicine",
         "origin": {
             "place_id": "ed779f6d-9468-4770-af88-988bd061d8fe"
@@ -8532,7 +8532,7 @@
         "updated_at": "2020-07-12T03:35:00Z",
         "bson": "319",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Spiritual Ornaments Made with Special Stones",
         "origin": {
             "place_id": "ed779f6d-9468-4770-af88-988bd061d8fe"
@@ -8570,7 +8570,7 @@
         "updated_at": "2020-07-12T03:35:00Z",
         "bson": "320",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Drink Containing a Health-boosting Extract",
         "origin": {
             "place_id": "ed779f6d-9468-4770-af88-988bd061d8fe"
@@ -8603,7 +8603,7 @@
         "updated_at": "2020-07-12T03:35:00Z",
         "bson": "321",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Freshly Mixed Spiritual Medicine",
         "origin": {
             "place_id": "ed779f6d-9468-4770-af88-988bd061d8fe"
@@ -8646,7 +8646,7 @@
         "updated_at": "2020-07-12T02:25:00Z",
         "bson": "322",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Chilled Delivery: Experimental Solvents",
         "origin": {
             "place_id": "8b0843db-c100-499a-a44a-d0057b352934"
@@ -8687,7 +8687,7 @@
         "updated_at": "2020-07-12T02:25:00Z",
         "bson": "323",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Large Consignment of Fuel for Cold Regions",
         "origin": {
             "place_id": "8b0843db-c100-499a-a44a-d0057b352934"
@@ -8730,7 +8730,7 @@
         "updated_at": "2020-07-12T02:25:00Z",
         "bson": "324",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "[URGENT] Delivery: Antiviral Drugs",
         "origin": {
             "place_id": "8b0843db-c100-499a-a44a-d0057b352934"
@@ -8773,7 +8773,7 @@
         "updated_at": "2020-07-12T02:25:00Z",
         "bson": "325",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "[URGENT] Retrieval: Bacteria Samples Stolen by Terrorists",
         "origin": {
             "place_id": "8b0843db-c100-499a-a44a-d0057b352934"
@@ -8820,7 +8820,7 @@
         "updated_at": "2020-07-12T02:25:00Z",
         "bson": "326",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Old-fashioned Synthetic Liquor",
         "origin": {
             "place_id": "8b0843db-c100-499a-a44a-d0057b352934"
@@ -8863,7 +8863,7 @@
         "updated_at": "2020-07-12T02:25:00Z",
         "bson": "327",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Fresh Cryptobiotes",
         "origin": {
             "place_id": "8b0843db-c100-499a-a44a-d0057b352934"
@@ -8904,7 +8904,7 @@
         "updated_at": "2020-07-12T02:30:00Z",
         "bson": "328",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Emergency Medical Supplies",
         "origin": {
             "place_id": "8b0843db-c100-499a-a44a-d0057b352934"
@@ -8943,7 +8943,7 @@
         "updated_at": "2020-07-12T02:25:00Z",
         "bson": "329",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "[URGENT] Delivery: Large Consignment of Emergency Medical Supplies",
         "origin": {
             "place_id": "8b0843db-c100-499a-a44a-d0057b352934"
@@ -8981,7 +8981,7 @@
         "updated_at": "2020-07-12T02:40:00Z",
         "bson": "330",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Concentration-Boosting Tablets",
         "origin": {
             "place_id": "8b0843db-c100-499a-a44a-d0057b352934"
@@ -9014,7 +9014,7 @@
         "updated_at": "2020-07-12T02:25:00Z",
         "bson": "331",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Synthetic Cryptobiote Samples",
         "origin": {
             "place_id": "8b0843db-c100-499a-a44a-d0057b352934"
@@ -9060,7 +9060,7 @@
         "updated_at": "2020-07-12T02:30:00Z",
         "bson": "332",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Cryptobiotes for Medicinal Use",
         "origin": {
             "place_id": "8b0843db-c100-499a-a44a-d0057b352934"
@@ -9106,7 +9106,7 @@
         "updated_at": "2020-07-12T02:30:00Z",
         "bson": "333",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Legendary Bâtard-Montrachet Wine",
         "origin": {
             "place_id": "8b0843db-c100-499a-a44a-d0057b352934"
@@ -9138,7 +9138,10 @@
             }
         ],
         "category": "EVAL_CARGO_CONDITION",
-        "maxlikes": "24 /27",
+        "maxlikes": {
+            "standard": 24,
+            "premium": 27
+        },
         "weight": 3.6,
         "content": [
             "S-2"
@@ -9149,7 +9152,7 @@
         "updated_at": "2020-07-11T22:15:00Z",
         "bson": "334",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Dinnerware Made from Extinction-era Stone",
         "origin": {
             "place_id": "86a1e6ea-e86c-4200-b939-6f46b7665978"
@@ -9187,7 +9190,7 @@
         "updated_at": "2020-07-11T22:15:00Z",
         "bson": "335",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Old Vehicle Parts Spotted Near the Tar Belt",
         "origin": {
             "place_id": "86a1e6ea-e86c-4200-b939-6f46b7665978"
@@ -9226,7 +9229,7 @@
         "updated_at": "2020-07-11T22:15:00Z",
         "bson": "336",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Floating Rock Samples from a BT Area",
         "origin": {
             "place_id": "86a1e6ea-e86c-4200-b939-6f46b7665978"
@@ -9264,7 +9267,7 @@
         "updated_at": "2020-07-11T22:15:00Z",
         "bson": "337",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Shell Fossils Spotted on the Sea Bed",
         "origin": {
             "place_id": "86a1e6ea-e86c-4200-b939-6f46b7665978"
@@ -9302,7 +9305,7 @@
         "updated_at": "2020-07-11T22:15:00Z",
         "bson": "338",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Extinction-era Geological Samples Lost During Delivery",
         "origin": {
             "place_id": "86a1e6ea-e86c-4200-b939-6f46b7665978"
@@ -9355,7 +9358,7 @@
         "updated_at": "2020-07-11T22:15:00Z",
         "bson": "339",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals & Special Alloys",
         "origin": {
             "place_id": "86a1e6ea-e86c-4200-b939-6f46b7665978"
@@ -9394,7 +9397,7 @@
         "updated_at": "2020-07-11T22:25:00Z",
         "bson": "340",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Microbe Samples from Warm Enviornments",
         "origin": {
             "place_id": "86a1e6ea-e86c-4200-b939-6f46b7665978"
@@ -9437,7 +9440,7 @@
         "updated_at": "2020-07-11T22:15:00Z",
         "bson": "341",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Edible Insects",
         "origin": {
             "place_id": "86a1e6ea-e86c-4200-b939-6f46b7665978"
@@ -9480,7 +9483,7 @@
         "updated_at": "2020-07-11T22:20:00Z",
         "bson": "342",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Chilled Delivery: Soil Samples from the Mountains",
         "origin": {
             "place_id": "86a1e6ea-e86c-4200-b939-6f46b7665978"
@@ -9522,7 +9525,7 @@
         "updated_at": "2020-07-11T22:20:00Z",
         "bson": "343",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins & Metals",
         "origin": {
             "place_id": "86a1e6ea-e86c-4200-b939-6f46b7665978"
@@ -9561,7 +9564,7 @@
         "updated_at": "2020-07-11T22:20:00Z",
         "bson": "344",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Beach-related Art",
         "origin": {
             "place_id": "86a1e6ea-e86c-4200-b939-6f46b7665978"
@@ -9604,7 +9607,7 @@
         "updated_at": "2020-07-11T19:25:00Z",
         "bson": "345",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Cutting-edge Portable Measuring Devices",
         "origin": {
             "place_id": "daef38ec-2a2c-43f2-b860-4accfa75ab73"
@@ -9645,7 +9648,7 @@
         "updated_at": "2020-07-11T19:25:00Z",
         "bson": "346",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Rubble Sample from Near the Tar Belt",
         "origin": {
             "place_id": "daef38ec-2a2c-43f2-b860-4accfa75ab73"
@@ -9683,7 +9686,7 @@
         "updated_at": "2020-07-11T19:25:00Z",
         "bson": "347",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery (Fragile): Samples of Ancient Bacteria Stolen by Terrorists",
         "origin": {
             "place_id": "daef38ec-2a2c-43f2-b860-4accfa75ab73"
@@ -9786,7 +9789,7 @@
         "updated_at": "2020-07-11T19:40:00Z",
         "bson": "349",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Insect-based Foodstuffs",
         "origin": {
             "place_id": "daef38ec-2a2c-43f2-b860-4accfa75ab73"
@@ -9824,7 +9827,7 @@
         "updated_at": "2020-07-11T19:40:00Z",
         "bson": "350",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Samples of New Insects Found in Hot Enviornments",
         "origin": {
             "place_id": "daef38ec-2a2c-43f2-b860-4accfa75ab73"
@@ -9857,7 +9860,7 @@
         "updated_at": "2020-07-11T19:55:00Z",
         "bson": "351",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Ancient Plant Samples",
         "origin": {
             "place_id": "daef38ec-2a2c-43f2-b860-4accfa75ab73"
@@ -9946,7 +9949,7 @@
         "updated_at": "2020-07-11T19:40:00Z",
         "bson": "353",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Miniature Dinosaurs Made with Artificial Leather",
         "origin": {
             "place_id": "daef38ec-2a2c-43f2-b860-4accfa75ab73"
@@ -9984,7 +9987,7 @@
         "updated_at": "2020-07-11T19:40:00Z",
         "bson": "354",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Tar-melting Chemical Samples",
         "origin": {
             "place_id": "daef38ec-2a2c-43f2-b860-4accfa75ab73"
@@ -10026,7 +10029,7 @@
         "updated_at": "2020-07-11T19:40:00Z",
         "bson": "355",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Insect-based Foodstuffs",
         "origin": {
             "place_id": "daef38ec-2a2c-43f2-b860-4accfa75ab73"
@@ -10069,7 +10072,7 @@
         "updated_at": "2020-07-11T19:40:00Z",
         "bson": "356",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Insects from a Hot Enviornment",
         "origin": {
             "place_id": "daef38ec-2a2c-43f2-b860-4accfa75ab73"
@@ -10112,7 +10115,7 @@
         "updated_at": "2020-07-11T19:40:00Z",
         "bson": "357",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Chilled Delivery: Supposedly Extinct Octopuses",
         "origin": {
             "place_id": "daef38ec-2a2c-43f2-b860-4accfa75ab73"
@@ -10153,7 +10156,7 @@
         "updated_at": "2020-07-12T00:00:00Z",
         "bson": "358",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Charcoal for Use in Pizza Ovens",
         "origin": {
             "place_id": "e9c4b81f-c7fb-4f5a-b0d0-090396ae7ee4"
@@ -10191,7 +10194,7 @@
         "updated_at": "2020-07-12T00:00:00Z",
         "bson": "359",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins & Ceramics",
         "origin": {
             "place_id": "e9c4b81f-c7fb-4f5a-b0d0-090396ae7ee4"
@@ -10224,7 +10227,7 @@
         "updated_at": "2020-07-12T00:00:00Z",
         "bson": "360",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Rock Samples from Geyser Area",
         "origin": {
             "place_id": "e9c4b81f-c7fb-4f5a-b0d0-090396ae7ee4"
@@ -10267,7 +10270,7 @@
         "updated_at": "2020-07-12T00:00:00Z",
         "bson": "361",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Ceramics & Special Alloys",
         "origin": {
             "place_id": "e9c4b81f-c7fb-4f5a-b0d0-090396ae7ee4"
@@ -10306,7 +10309,7 @@
         "updated_at": "2020-07-12T00:00:00Z",
         "bson": "362",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Ceramics & Special Alloys",
         "origin": {
             "place_id": "e9c4b81f-c7fb-4f5a-b0d0-090396ae7ee4"
@@ -10345,7 +10348,7 @@
         "updated_at": "2020-07-12T00:00:00Z",
         "bson": "363",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Medical Supplies Lost During Delivery",
         "origin": {
             "place_id": "e9c4b81f-c7fb-4f5a-b0d0-090396ae7ee4"
@@ -10393,7 +10396,7 @@
         "updated_at": "2020-07-12T00:00:00Z",
         "bson": "364",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Ceramics & Special Alloys",
         "origin": {
             "place_id": "e9c4b81f-c7fb-4f5a-b0d0-090396ae7ee4"
@@ -10432,7 +10435,7 @@
         "updated_at": "2020-07-12T00:00:00Z",
         "bson": "365",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Portable Medical Kids",
         "origin": {
             "place_id": "e9c4b81f-c7fb-4f5a-b0d0-090396ae7ee4"
@@ -10470,7 +10473,7 @@
         "updated_at": "2020-07-11T21:00:00Z",
         "bson": "366",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Chilled Delivery: Genetically Modified Seed Samples",
         "origin": {
             "place_id": "7a695253-c360-4984-b9b2-1041462c16c3"
@@ -10513,7 +10516,7 @@
         "updated_at": "2020-07-11T21:00:00Z",
         "bson": "367",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Mobile Carbon Exoskeleton Parts",
         "origin": {
             "place_id": "7a695253-c360-4984-b9b2-1041462c16c3"
@@ -10556,7 +10559,7 @@
         "updated_at": "2020-07-11T21:00:00Z",
         "bson": "368",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Devices for Molecular Analysis",
         "origin": {
             "place_id": "7a695253-c360-4984-b9b2-1041462c16c3"
@@ -10602,7 +10605,7 @@
         "updated_at": "2020-07-11T21:00:00Z",
         "bson": "369",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Samples from Fish Found in BT Areas",
         "origin": {
             "place_id": "7a695253-c360-4984-b9b2-1041462c16c3"
@@ -10645,7 +10648,7 @@
         "updated_at": "2020-07-11T21:00:00Z",
         "bson": "370",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Cold-Sensitive Microbe Sample",
         "origin": {
             "place_id": "7a695253-c360-4984-b9b2-1041462c16c3"
@@ -10688,7 +10691,7 @@
         "updated_at": "2020-07-11T21:00:00Z",
         "bson": "371",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery (Fragile): Samples of a New Bacteria Stolen by Terrorists",
         "origin": {
             "place_id": "7a695253-c360-4984-b9b2-1041462c16c3"
@@ -10738,7 +10741,7 @@
         "updated_at": "2020-07-11T21:00:00Z",
         "bson": "372",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: DNA Samples Lost in the Vog",
         "origin": {
             "place_id": "7a695253-c360-4984-b9b2-1041462c16c3"
@@ -10787,7 +10790,7 @@
         "updated_at": "2020-07-11T21:05:00Z",
         "bson": "373",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Miniature Dinosaurs Made with Artificial Leather",
         "origin": {
             "place_id": "7a695253-c360-4984-b9b2-1041462c16c3"
@@ -10826,7 +10829,7 @@
         "updated_at": "2020-07-11T21:05:00Z",
         "bson": "374",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Timefall-grown Houseplants",
         "origin": {
             "place_id": "7a695253-c360-4984-b9b2-1041462c16c3"
@@ -10865,7 +10868,7 @@
         "updated_at": "2020-07-11T21:05:00Z",
         "bson": "375",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Chilled Delivery: Flavorsome Edible Plants",
         "origin": {
             "place_id": "7a695253-c360-4984-b9b2-1041462c16c3"
@@ -10907,7 +10910,7 @@
         "updated_at": "2020-07-12T05:40:00Z",
         "bson": "376",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Live Fish",
         "origin": {
             "place_id": "7a695253-c360-4984-b9b2-1041462c16c3"
@@ -10950,7 +10953,7 @@
         "updated_at": "2020-07-18T23:50:00Z",
         "bson": "377",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Art from the Middle Ages",
         "origin": {
             "place_id": "1a16cbc2-40c9-4f13-964b-4f9b81777345"
@@ -10993,7 +10996,7 @@
         "updated_at": "2020-07-18T23:50:00Z",
         "bson": "378",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Signed Photographs of Movie Stars",
         "origin": {
             "place_id": "1a16cbc2-40c9-4f13-964b-4f9b81777345"
@@ -11031,7 +11034,7 @@
         "updated_at": "2020-07-18T23:50:00Z",
         "bson": "379",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Giant Gorilla Figurines Lost During Delivery",
         "origin": {
             "place_id": "1a16cbc2-40c9-4f13-964b-4f9b81777345"
@@ -11079,7 +11082,7 @@
         "updated_at": "2020-07-18T23:50:00Z",
         "bson": "380",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Vintage Monster Figurines Lost in the Vog",
         "origin": {
             "place_id": "1a16cbc2-40c9-4f13-964b-4f9b81777345"
@@ -11128,7 +11131,7 @@
         "updated_at": "2020-07-18T23:55:00Z",
         "bson": "381",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Return: Defective Chiral Printer Cartridges",
         "origin": {
             "place_id": "1a16cbc2-40c9-4f13-964b-4f9b81777345"
@@ -11166,7 +11169,7 @@
         "updated_at": "2020-07-18T23:50:00Z",
         "bson": "382",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Old Movie Hero Figurines",
         "origin": {
             "place_id": "1a16cbc2-40c9-4f13-964b-4f9b81777345"
@@ -11204,7 +11207,7 @@
         "updated_at": "2020-07-18T23:50:00Z",
         "bson": "383",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Old Crime and Action Movies",
         "origin": {
             "place_id": "1a16cbc2-40c9-4f13-964b-4f9b81777345"
@@ -11247,7 +11250,7 @@
         "updated_at":  "2020-07-17T03:30:00Z",
         "bson": "384",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Hand Cream",
         "origin": {
             "place_id": "2d5caf01-dcfd-4e55-9a05-49f64d6213c4"
@@ -11280,7 +11283,7 @@
         "updated_at": "2020-07-17T03:30:00Z",
         "bson": "385",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Extinct Animals Soft Toys",
         "origin": {
             "place_id": "2d5caf01-dcfd-4e55-9a05-49f64d6213c4"
@@ -11318,7 +11321,7 @@
         "updated_at": "2020-07-17T03:30:00Z",
         "bson": "386",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Tough Camera Pouches",
         "origin": {
             "place_id": "2d5caf01-dcfd-4e55-9a05-49f64d6213c4"
@@ -11356,7 +11359,7 @@
         "updated_at": "2020-07-17T03:30:00Z",
         "bson": "387",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Old Photographs of BTs",
         "origin": {
             "place_id": "2d5caf01-dcfd-4e55-9a05-49f64d6213c4"
@@ -11394,7 +11397,7 @@
         "updated_at": "2020-07-17T03:35:00Z",
         "bson": "388",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Cosplay Costume Stolen by MULEs",
         "origin": {
             "place_id": "2d5caf01-dcfd-4e55-9a05-49f64d6213c4"
@@ -11433,7 +11436,7 @@
         "updated_at": "2020-07-17T03:35:00Z",
         "bson": "389",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "[URGENT] Delivery: Medicine and Drinks for a Hangover",
         "origin": {
             "place_id": "2d5caf01-dcfd-4e55-9a05-49f64d6213c4"
@@ -11477,7 +11480,7 @@
         "updated_at": "2020-07-17T03:35:00Z",
         "bson": "390",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Material for Clothes Washed Away by River",
         "origin": {
             "place_id": "2d5caf01-dcfd-4e55-9a05-49f64d6213c4"
@@ -11522,7 +11525,7 @@
         "updated_at": "2020-07-17T03:40:00Z",
         "bson": "391",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Top-quality Underwear",
         "origin": {
             "place_id": "2d5caf01-dcfd-4e55-9a05-49f64d6213c4"
@@ -11560,7 +11563,7 @@
         "updated_at": "2020-07-17T03:40:00Z",
         "bson": "392",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Top-quality Underwear",
         "origin": {
             "place_id": "2d5caf01-dcfd-4e55-9a05-49f64d6213c4"
@@ -11594,7 +11597,7 @@
         "updated_at": "2020-07-12T02:50:00Z",
         "bson": "393",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Top-class Cooking Utensils",
         "origin": {
             "place_id": "603cd29f-8cb7-4e4f-857e-02cb389ab14e"
@@ -11627,7 +11630,7 @@
         "updated_at": "2020-07-12T02:50:00Z",
         "bson": "394",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Fresh Snow Meltwater",
         "origin": {
             "place_id": "603cd29f-8cb7-4e4f-857e-02cb389ab14e"
@@ -11666,7 +11669,7 @@
         "updated_at": "2020-07-12T02:50:00Z",
         "bson": "395",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Russian-army-issue Winter Clothes",
         "origin": {
             "place_id": "603cd29f-8cb7-4e4f-857e-02cb389ab14e"
@@ -11704,7 +11707,7 @@
         "updated_at": "2020-07-12T02:50:00Z",
         "bson": "396",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Old Gun Components Lost during Delivery",
         "origin": {
             "place_id": "603cd29f-8cb7-4e4f-857e-02cb389ab14e"
@@ -11759,7 +11762,7 @@
         "updated_at": "2020-07-12T02:50:00Z",
         "bson": "397",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Collection (Fragile): Anti-chiralium Medication",
         "origin": {
             "place_id": "603cd29f-8cb7-4e4f-857e-02cb389ab14e"
@@ -11809,7 +11812,7 @@
         "updated_at": "2020-07-12T03:00:00Z",
         "bson": "398",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Old Fashioned Sea-Sickness Medicine",
         "origin": {
             "place_id": "603cd29f-8cb7-4e4f-857e-02cb389ab14e"
@@ -11847,7 +11850,7 @@
         "updated_at": "2020-07-12T03:00:00Z",
         "bson": "399",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Chilled Delivery: Snow Samples from the Mountains",
         "origin": {
             "place_id": "603cd29f-8cb7-4e4f-857e-02cb389ab14e"
@@ -11890,7 +11893,7 @@
         "updated_at": "2020-07-12T03:00:00Z",
         "bson": "400",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Chilled DeliveryL Snow Samples from the Mountains",
         "origin": {
             "place_id": "603cd29f-8cb7-4e4f-857e-02cb389ab14e"
@@ -11936,7 +11939,7 @@
         "updated_at": "2020-07-12T03:00:00Z",
         "bson": "401",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Chilled Delivery: Frozen Organism Samples",
         "origin": {
             "place_id": "603cd29f-8cb7-4e4f-857e-02cb389ab14e"
@@ -11980,7 +11983,7 @@
         "updated_at": "2020-07-12T03:00:00Z",
         "bson": "402",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: 20th-century Fallout Shelter Construction Guides",
         "origin": {
             "place_id": "603cd29f-8cb7-4e4f-857e-02cb389ab14e"
@@ -12018,7 +12021,7 @@
         "updated_at": "2020-07-18T19:40:00Z",
         "bson": "403",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Epic Porter Biographies—\"The Great Deliverers\"",
         "origin": {
             "place_id": "9e566eba-db02-41f5-8071-f011d98df8b7"
@@ -12056,7 +12059,7 @@
         "updated_at": "2020-07-18T19:40:00Z",
         "bson": "404",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Educational Toys for Children",
         "origin": {
             "place_id": "9e566eba-db02-41f5-8071-f011d98df8b7"
@@ -12094,7 +12097,7 @@
         "updated_at": "2020-07-18T19:40:00Z",
         "bson": "405",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Old Game Consoles Stolen by MULEs",
         "origin": {
             "place_id": "9e566eba-db02-41f5-8071-f011d98df8b7"
@@ -12138,7 +12141,7 @@
         "updated_at": "2020-07-18T19:40:00Z",
         "bson": "406",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Collection: \"Famitsu\" Video Game Magazines",
         "origin": {
             "place_id": "9e566eba-db02-41f5-8071-f011d98df8b7"
@@ -12182,7 +12185,7 @@
         "updated_at": "2020-07-18T19:45:00Z",
         "bson": "407",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Collection: Large Consignment of Video Games",
         "origin": {
             "place_id": "9e566eba-db02-41f5-8071-f011d98df8b7"
@@ -12221,7 +12224,7 @@
         "updated_at": "2020-07-18T19:45:00Z",
         "bson": "408",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Tactical Action Games Stolen by MULEs",
         "origin": {
             "place_id": "9e566eba-db02-41f5-8071-f011d98df8b7"
@@ -12260,7 +12263,7 @@
         "updated_at": "2020-07-18T19:45:00Z",
         "bson": "409",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Popular Board Game(s) \"Porter & MULE\"",
         "origin": {
             "place_id": "9e566eba-db02-41f5-8071-f011d98df8b7"
@@ -12293,7 +12296,7 @@
         "updated_at": "2020-07-18T19:45:00Z",
         "bson": "410",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Old Board Game-\"The Big Delivery\"",
         "origin": {
             "place_id": "9e566eba-db02-41f5-8071-f011d98df8b7"
@@ -12326,7 +12329,7 @@
         "updated_at": "2020-07-19T06:05:00Z",
         "bson": "411",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Extinction-related Research Documents Stolen by Terrorists",
         "origin": {
             "place_id": "9a5da290-8c92-4ebc-8c1d-980668c36f36"
@@ -12368,7 +12371,7 @@
         "updated_at": "2020-07-19T06:05:00Z",
         "bson": "412",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Retrieval: Devices for Gourd Cultivation Stolen by Terrorists",
         "origin": {
             "place_id": "9a5da290-8c92-4ebc-8c1d-980668c36f36"
@@ -12410,7 +12413,7 @@
         "updated_at": "2020-07-12T04:20:00Z",
         "bson": "413",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Counter-clockwise Watches",
         "origin": {
             "place_id": "9a5da290-8c92-4ebc-8c1d-980668c36f36"
@@ -12448,7 +12451,7 @@
         "updated_at": "2020-07-12T04:20:00Z",
         "bson": "414",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Hand-made Toy Weapons",
         "origin": {
             "place_id": "9a5da290-8c92-4ebc-8c1d-980668c36f36"
@@ -12486,7 +12489,7 @@
         "updated_at": "2020-07-12T04:20:00Z",
         "bson": "415",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Tabletop Role-playing Games",
         "origin": {
             "place_id": "9a5da290-8c92-4ebc-8c1d-980668c36f36"
@@ -12524,7 +12527,7 @@
         "updated_at": "2020-07-17T01:45:00Z",
         "bson": "416",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Sculptures by Up-and-coming Artists",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -12562,7 +12565,7 @@
         "updated_at": "2020-07-17T01:45:00Z",
         "bson": "417",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Sake-Flavored Synthetic Liquor",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -12596,7 +12599,7 @@
         "updated_at": "2020-07-17T01:45:00Z",
         "bson": "418",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Special Alloys",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -12634,7 +12637,7 @@
         "updated_at": "2020-07-17T01:45:00Z",
         "bson": "419",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Powerful Sleeping Tablets",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -12677,7 +12680,7 @@
         "updated_at": "2020-07-19T00:20:00Z",
         "bson": "420",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "[URGENT] Delivery: Chiral Allergy Medication",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -12715,7 +12718,7 @@
         "updated_at": "2020-07-17T02:45:00Z",
         "bson": "421",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "[URGENT] Delivery (Fragile): Pacemaker",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -12756,7 +12759,7 @@
         "updated_at": "2020-07-19T00:20:00Z",
         "bson": "422",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Naturally Timefall-resistant Wood",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -12790,7 +12793,7 @@
         "updated_at": "2020-07-19T00:20:00Z",
         "bson": "423",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Old Glass Components",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -12829,7 +12832,7 @@
         "updated_at": "2020-07-19T00:20:00Z",
         "bson": "424",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins & Special Alloys",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -12863,7 +12866,7 @@
         "updated_at": "2020-07-19T00:20:00Z",
         "bson": "425",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Classy Coral Ornaments",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -12906,7 +12909,7 @@
         "updated_at": "2020-07-19T00:20:00Z",
         "bson": "426",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Coral Ornaments",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -12945,7 +12948,7 @@
         "updated_at": "2020-07-17T01:45:00Z",
         "bson": "427",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Living Tissue Sample from a Supposedly Extinct Octopus",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -12983,7 +12986,7 @@
         "updated_at": "2020-07-17T02:45:00Z",
         "bson": "428",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Chilled Delivery: Fresh Fatty Fish",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -13029,7 +13032,7 @@
         "updated_at": "2020-07-17T02:45:00Z",
         "bson": "429",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Fresh Cryptobiotes",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -13075,7 +13078,7 @@
         "updated_at": "2020-07-19T00:20:00Z",
         "bson": "430",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Movie Magazines from the Golden Era of Film",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -13113,7 +13116,7 @@
         "updated_at": "2020-07-19T00:20:00Z",
         "bson": "431",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Collection (Fragile): Delicate Cargo from the Harbor",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -13124,7 +13127,7 @@
         "waypoints": [
             {
                 "type": "INFRA_CITY",
-                "notes": "TODO",
+                "notes": "TODO: Harbor.",
                 "geometry": {
                     "point": {
                         "lng": null,
@@ -13162,7 +13165,7 @@
         "updated_at": "2020-07-19T00:20:00Z",
         "bson": "432",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Material Collection & Delivery",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -13208,7 +13211,7 @@
         "updated_at": "2020-07-19T00:20:00Z",
         "bson": "433",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Construction Materials Stolen by MULEs",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -13252,7 +13255,7 @@
         "updated_at": "2020-07-19T00:20:00Z",
         "bson": "434",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Prototype Tar-based Fuel",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -13291,7 +13294,7 @@
         "updated_at": "2020-07-19T00:20:00Z",
         "bson": "435",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Ceramics",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -13324,7 +13327,7 @@
         "updated_at": "2020-07-17T02:45:00Z",
         "bson": "436",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Special Alloys",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -13363,7 +13366,7 @@
         "updated_at": "2020-07-17T02:50:00Z",
         "bson": "437",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Health Foods Made with Fish Found in BT Area",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -13396,7 +13399,7 @@
         "updated_at": "2020-07-17T01:45:00Z",
         "bson": "438",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "[URGENT] Large Consignment of Preserved Food Rations",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -13435,7 +13438,7 @@
         "updated_at": "2020-07-17T01:45:00Z",
         "bson": "439",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals & Special Alloys",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -13507,7 +13510,7 @@
         "updated_at": "2020-07-17T01:50:00Z",
         "bson": "441",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Chilled Delivery: Fresh Seafood",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -13553,7 +13556,7 @@
         "updated_at": "2020-07-17T01:50:00Z",
         "bson": "442",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Chilled Delivery: Assortment of Fresh Seafood",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -13595,7 +13598,7 @@
         "updated_at": "2020-07-17T01:50:00Z",
         "bson": "443",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Chilled Delivery: Assortment of Fresh Seafood",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -13642,7 +13645,7 @@
         "updated_at": "2020-07-17T02:45:00Z",
         "bson": "444",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Beach Related Art",
         "origin": {
             "place_id": "5f465f6a-cb4e-4739-beb2-8b2f6f3e2f8a"
@@ -13680,7 +13683,7 @@
         "updated_at": "2020-07-18T23:40:00Z",
         "bson": "445",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Whiskey-flavored Synthetic Liquor",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -13714,7 +13717,7 @@
         "updated_at": "2020-07-18T23:40:00Z",
         "bson": "446",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Comic Artist's Collected Works",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -13752,7 +13755,7 @@
         "updated_at": "2020-07-18T23:40:00Z",
         "bson": "447",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -13785,7 +13788,7 @@
         "updated_at": "2020-07-18T23:30:00Z",
         "bson": "448",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: High-protein Edible Plants",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -13828,7 +13831,7 @@
         "updated_at": "2020-07-18T23:35:00Z",
         "bson": "449",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Fertilizer for Bonsai Trees",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -13871,7 +13874,7 @@
         "updated_at": "2020-07-12T20:50:00Z",
         "bson": "450",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Old Cityscape Photos Washed Away by River",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -13919,7 +13922,7 @@
         "updated_at": "2020-07-12T20:50:00Z",
         "bson": "451",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: High-grade Silicone Made by FAI",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -13952,7 +13955,7 @@
         "updated_at": "2020-07-12T20:50:00Z",
         "bson": "452",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Classic Open-world Games",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -13985,7 +13988,7 @@
         "updated_at": "2020-07-12T21:00:00Z",
         "bson": "453",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins & Special Alloys",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14019,7 +14022,7 @@
         "updated_at": "2020-07-18T23:30:00Z",
         "bson": "454",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Pesticides",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14053,7 +14056,7 @@
         "updated_at": "2020-07-18T23:30:00Z",
         "bson": "455",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Chiral Crystal Ornaments",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14096,7 +14099,7 @@
         "updated_at": "2020-07-18T23:35:00Z",
         "bson": "456",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Dinnerware for Newlyweds",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14162,7 +14165,7 @@
         "updated_at": "2020-07-12T20:55:00Z",
         "bson": "458",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Retro Bags Made from Natural Materials",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14200,7 +14203,7 @@
         "updated_at": "2020-07-18T18:55:00Z",
         "bson": "459",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Nutritious Food Rations",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14238,7 +14241,7 @@
         "updated_at": "2020-07-18T23:30:00Z",
         "bson": "460",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins & Ceramics",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14292,7 +14295,7 @@
         },
         "waypoints": [
         ],
-        "objectives_text": "Mountainous, Condition, Min Weight (<50%, 5 kg / <20%, N/A)",
+        "objectives_text": "Mountainous, Condition, Min Weight (<50%, 5 kg / <20%, �)",
         "objectives": [
             {
                 "type": "OBJ_MIN_CONDITION",
@@ -14326,7 +14329,7 @@
         "updated_at": "2020-07-12T20:55:00Z",
         "bson": "462",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Cryptobiotes for Medicinal Use",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14372,7 +14375,7 @@
         "updated_at": "2020-07-18T23:35:00Z",
         "bson": "463",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Old Movie reels",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14410,7 +14413,7 @@
         "updated_at": "2020-07-12T20:55:00Z",
         "bson": "464",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals & Ceramics",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14448,7 +14451,7 @@
         "updated_at": "2020-07-12T20:55:00Z",
         "bson": "465",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Media Containing Old Shows from the Golden Age of TV",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14481,7 +14484,7 @@
         "updated_at": "2020-07-12T20:55:00Z",
         "bson": "466",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Tools Used by Old-time DIY Enthusiasts",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14524,7 +14527,7 @@
         "updated_at": "2020-07-18T23:30:00Z",
         "bson": "467",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Critically Acclaimed Video Games",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14562,7 +14565,7 @@
         "updated_at": "2020-07-18T23:35:00Z",
         "bson": "468",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Pre-Stranding Texts on American History",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14595,7 +14598,7 @@
         "updated_at": "2020-07-18T23:35:00Z",
         "bson": "469",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Antique Games",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14669,7 +14672,7 @@
         "updated_at": "2020-07-12T21:00:00Z",
         "bson": "471",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery: Food Supplies Lost in an Accident",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14714,7 +14717,7 @@
         "updated_at": "2020-07-18T23:30:00Z",
         "bson": "472",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Portable Food Rations",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14757,7 +14760,7 @@
         "updated_at": "2020-07-18T23:30:00Z",
         "bson": "473",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals & Ceramics",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14795,7 +14798,7 @@
         "updated_at": "2020-07-18T23:30:00Z",
         "bson": "474",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Construction Materials for Facility Expansion",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14829,7 +14832,7 @@
         "updated_at": "2020-07-18T23:35:00Z",
         "bson": "475",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery (Fragile): Large Consignment of Medical Devices Stolen by MULEs",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14871,7 +14874,7 @@
         "updated_at": "2020-07-18T23:35:00Z",
         "bson": "476",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins & Ceramics",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14905,7 +14908,7 @@
         "updated_at": "2020-07-18T23:35:00Z",
         "bson": "477",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Metals & Ceramics",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14939,7 +14942,7 @@
         "updated_at": "2020-07-12T21:00:00Z",
         "bson": "478",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Old Jazz Records",
         "origin": {
             "place_id": "08bdff60-a202-40b8-8d3d-dde96976bfed"
@@ -14980,7 +14983,7 @@
         "updated_at": "2020-07-19T01:40:00Z",
         "bson": "479",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Agricultural Machinery Inspection Devices",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15018,7 +15021,7 @@
         "updated_at": "2020-07-19T01:40:00Z",
         "bson": "480",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins & Ceramics",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15051,7 +15054,7 @@
         "updated_at": "2020-07-19T01:45:00Z",
         "bson": "481",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Special Alloys & Chemicals",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15085,7 +15088,7 @@
         "updated_at": "2020-07-19T01:40:00Z",
         "bson": "482",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Ceramics & Chemicals",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15119,7 +15122,7 @@
         "updated_at": "2020-07-19T01:40:00Z",
         "bson": "483",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins & Metals",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15153,7 +15156,7 @@
         "updated_at": "2020-07-19T01:40:00Z",
         "bson": "484",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15191,7 +15194,7 @@
         "updated_at": "2020-07-19T01:45:00Z",
         "bson": "485",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Devices for Timefall Analysis",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15234,7 +15237,7 @@
         "updated_at": "2020-07-19T01:40:00Z",
         "bson": "486",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Chemicals",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15272,7 +15275,7 @@
         "updated_at": "2020-07-19T01:45:00Z",
         "bson": "487",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Chiralium Ore Samples",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15315,7 +15318,7 @@
         "updated_at": "2020-07-19T01:45:00Z",
         "bson": "488",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Latest Meteorological Data",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15353,7 +15356,7 @@
         "updated_at": "2020-07-19T01:40:00Z",
         "bson": "489",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Latest Meteorological Data",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15391,7 +15394,7 @@
         "updated_at": "2020-07-19T01:45:00Z",
         "bson": "490",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins & Ceramics",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15425,7 +15428,7 @@
         "updated_at": "2020-07-19T01:45:00Z",
         "bson": "491",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Models of 20th-century Cars",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15458,7 +15461,7 @@
         "updated_at": "2020-07-19T01:45:00Z",
         "bson": "492",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Latest Meteorological Data",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15491,7 +15494,7 @@
         "updated_at": "2020-07-19T01:45:00Z",
         "bson": "493",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Speical Alloys",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15529,7 +15532,7 @@
         "updated_at": "2020-07-19T01:40:00Z",
         "bson": "494",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Collection: Junk Parts for Watchtower Repair",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15577,7 +15580,7 @@
         "updated_at": "2020-07-19T01:45:00Z",
         "bson": "495",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Miniature Weather Radars",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15620,7 +15623,7 @@
         "updated_at": "2020-07-19T01:40:00Z",
         "bson": "496",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Ceramics",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15653,7 +15656,7 @@
         "updated_at": "2020-07-19T01:40:00Z",
         "bson": "497",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Winter Clothes",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15696,7 +15699,7 @@
         "updated_at": "2020-07-19T01:45:00Z",
         "bson": "498",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals",
         "origin": {
             "place_id": "77e1b8d4-579a-4f9e-9dbd-540ec8b68718"
@@ -15729,7 +15732,7 @@
         "updated_at": "2020-07-17T03:15:00Z",
         "bson": "499",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Timefall Resistant Worms",
         "origin": {
             "place_id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27"
@@ -15772,7 +15775,7 @@
         "updated_at": "2020-07-17T01:25:00Z",
         "bson": "500",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Large Consignment of Mostly Junk",
         "origin": {
             "place_id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27"
@@ -15805,7 +15808,7 @@
         "updated_at": "2020-07-17T01:25:00Z",
         "bson": "501",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Antique Furnishings",
         "origin": {
             "place_id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27"
@@ -15838,7 +15841,7 @@
         "updated_at": "2020-07-17T03:20:00Z",
         "bson": "502",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Hard-wearing Underwear",
         "origin": {
             "place_id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27"
@@ -15876,7 +15879,7 @@
         "updated_at": "2020-07-17T00:55:00Z",
         "bson": "503",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Antique Art from the Ruins",
         "origin": {
             "place_id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27"
@@ -15910,7 +15913,7 @@
         "updated_at": "2020-07-12T21:10:00Z",
         "bson": "504",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Fluffy Cryptobiote Soft Toys",
         "origin": {
             "place_id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27"
@@ -15953,7 +15956,7 @@
         "updated_at": "2020-07-17T01:00:00Z",
         "bson": "505",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Highly Contaminated Tar Samples",
         "origin": {
             "place_id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27"
@@ -15997,7 +16000,7 @@
         "updated_at": "2020-07-17T00:55:00Z",
         "bson": "506",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Mutated Ammonite Fossils",
         "origin": {
             "place_id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27"
@@ -16035,7 +16038,7 @@
         "updated_at": "2020-07-17T03:15:00Z",
         "bson": "507",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Antique Video Playback Systems",
         "origin": {
             "place_id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27"
@@ -16077,7 +16080,7 @@
         "updated_at": "2020-07-17T00:55:00Z",
         "bson": "508",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Beauty Products for Natural-looking Skin",
         "origin": {
             "place_id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27"
@@ -16111,7 +16114,7 @@
         "updated_at": "2020-07-17T00:55:00Z",
         "bson": "509",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: PSP™ systems",
         "origin": {
             "place_id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27"
@@ -16144,7 +16147,7 @@
         "updated_at": "2020-07-17T00:55:00Z",
         "bson": "510",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Revolutionary PlayStation™ systems",
         "origin": {
             "place_id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27"
@@ -16182,7 +16185,7 @@
         "updated_at": "2020-07-17T00:55:00Z",
         "bson": "511",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals & Ceramics",
         "origin": {
             "place_id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27"
@@ -16215,7 +16218,7 @@
         "updated_at": "2020-07-17T01:25:00Z",
         "bson": "512",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Sample of Live Ants",
         "origin": {
             "place_id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27"
@@ -16248,7 +16251,7 @@
         "updated_at": "2020-07-17T00:55:00Z",
         "bson": "513",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Large Consignment of Emergency Provisions",
         "origin": {
             "place_id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27"
@@ -16286,7 +16289,7 @@
         "updated_at": "2020-07-17T00:55:00Z",
         "bson": "514",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Chiral Contamination Cleansing Devices",
         "origin": {
             "place_id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27"
@@ -16325,7 +16328,7 @@
         "updated_at": "2020-07-17T00:55:00Z",
         "bson": "515",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Soil Samples from Near the Crater Lake",
         "origin": {
             "place_id": "46618d8c-e1b0-400d-8531-4dd21c1d0d27"
@@ -16401,7 +16404,7 @@
         "updated_at": "2020-07-12T04:05:00Z",
         "bson": "517",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Timefall-optimized Soil",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -16434,7 +16437,7 @@
         "updated_at": "2020-07-12T04:05:00Z",
         "bson": "518",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Chiral Destiny Gauges for Use Near Incinerators",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -16477,7 +16480,7 @@
         "updated_at": "2020-07-19T06:10:00Z",
         "bson": "519",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Special Alloys & Chemicals",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -16515,7 +16518,7 @@
         "updated_at": "2020-07-12T19:10:00Z",
         "bson": "520",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals & Chemicals",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -16553,7 +16556,7 @@
         "updated_at": "2020-07-12T04:05:00Z",
         "bson": "521",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Ceramics & Special Alloys",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -16592,7 +16595,7 @@
         "updated_at": "2020-07-12T19:10:00Z",
         "bson": "522",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Nutrient-rich Baby Milk",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -16635,7 +16638,7 @@
         "updated_at": "2020-07-12T19:55:00Z",
         "bson": "523",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -16674,7 +16677,7 @@
         "updated_at": "2020-07-12T19:10:00Z",
         "bson": "524",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Photographs of the Pre-Stranding World",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -16712,7 +16715,7 @@
         "updated_at": "2020-07-19T06:15:00Z",
         "bson": "525",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins & Chemicals",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -16750,7 +16753,7 @@
         "updated_at": "2020-07-12T05:45:00Z",
         "bson": "526",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Fragments of a Mural Depicting the Soul",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -16793,7 +16796,7 @@
         "updated_at": "2020-07-19T06:15:00Z",
         "bson": "527",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Experimental Medicine",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -16837,7 +16840,7 @@
         "updated_at": "2020-07-19T06:15:00Z",
         "bson": "528",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Cold Sensitive Medicine",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -16880,7 +16883,7 @@
         "updated_at": "2020-07-12T20:32:00Z",
         "bson": "529",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Beauty Products Made with Cryptobiote Extract",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -16918,7 +16921,7 @@
         "updated_at": "2020-07-12T05:45:00Z",
         "bson": "530",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Fragments of a Mural Depicting the Soul",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -16961,7 +16964,7 @@
         "updated_at": "2020-07-19T06:15:00Z",
         "bson": "531",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Novels by the \"Father of American Literature\"",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -16999,7 +17002,7 @@
         "updated_at": "2020-07-12T05:45:00Z",
         "bson": "532",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Easy-to-use Planting Kits",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -17038,7 +17041,7 @@
         "updated_at": "2020-07-12T05:45:00Z",
         "bson": "533",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Heath Drinks Containing Cryptobiote Extract",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -17077,7 +17080,7 @@
         "updated_at": "2020-07-12T05:50:00Z",
         "bson": "534",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Fertilizer for Growing Gourds",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -17120,7 +17123,7 @@
         "updated_at": "2020-07-12T04:05:00Z",
         "bson": "535",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins & Metals",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -17164,7 +17167,7 @@
         "updated_at": "2020-07-12T04:05:00Z",
         "bson": "536",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Condensed Forest Fertilizer",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -17203,7 +17206,7 @@
         "updated_at": "2020-07-12T04:05:00Z",
         "bson": "537",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Muscle-stimulating Food",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -17236,7 +17239,7 @@
         "updated_at": "2020-07-12T04:05:00Z",
         "bson": "538",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Fast-acting Painkillers",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -17274,7 +17277,7 @@
         "updated_at": "2020-07-12T04:05:00Z",
         "bson": "539",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Timefall Resistant Plant Samples",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -17307,7 +17310,7 @@
         "updated_at": "2020-07-19T06:20:00Z",
         "bson": "540",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "[URGENT] Recovery: Blood Products Stolen by Terrorists",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -17351,7 +17354,7 @@
         "updated_at": "2020-07-19T06:20:00Z",
         "bson": "541",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Special Medicines for Cold Climate",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -17389,7 +17392,7 @@
         "updated_at": "2020-07-19T06:20:00Z",
         "bson": "542",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Recovery (Fragile): Poison Gas Procured by Terrorists",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -17480,7 +17483,7 @@
         "updated_at": "2020-07-12T04:05:00Z",
         "bson": "544",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Heart Medicine",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -17518,7 +17521,7 @@
         "updated_at": "2020-07-19T06:20:00Z",
         "bson": "545",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Old Coral Jewelery",
         "origin": {
             "place_id": "67ebe456-1a39-4fb6-a8dd-d6b2b2531a0a"
@@ -17564,7 +17567,7 @@
         "updated_at": "2020-07-19T04:55:00Z",
         "bson": "546",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Anti-chiralium Medication",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -17605,7 +17608,7 @@
         "updated_at": "2020-07-12T01:55:00Z",
         "bson": "547",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Ceramics",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -17648,7 +17651,7 @@
         "updated_at": "2020-07-19T04:55:00Z",
         "bson": "548",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Spring Used in a Broken Bot",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -17686,7 +17689,7 @@
         "updated_at": "2020-07-19T04:55:00Z",
         "bson": "549",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Ceramics & Special Alloys",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -17724,7 +17727,7 @@
         "updated_at": "2020-07-19T04:55:00Z",
         "bson": "550",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Educational Products",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -17767,7 +17770,7 @@
         "updated_at": "2020-07-19T04:55:00Z",
         "bson": "551",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Special Alloys & Chemicals",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -17810,7 +17813,7 @@
         "updated_at": "2020-07-19T04:55:00Z",
         "bson": "552",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Charts Rumored to Have Been Used by Columbus",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -17853,7 +17856,7 @@
         "updated_at": "2020-07-19T04:55:00Z",
         "bson": "553",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Photographs from the Start of the Death Stranding",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -17891,7 +17894,7 @@
         "updated_at": "2020-07-19T04:55:00Z",
         "bson": "554",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Paintings of the Dead Being Resurrected",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -17934,7 +17937,7 @@
         "updated_at": "2020-07-19T04:55:00Z",
         "bson": "555",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Ceramics & Special Alloys",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -17972,7 +17975,7 @@
         "updated_at": "2020-07-19T06:50:00Z",
         "bson": "556",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Beauty Products Made with Collagen from Stranded Whales",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18010,7 +18013,7 @@
         "updated_at": "2020-07-12T05:10:00Z",
         "bson": "557",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Experimental Precision Instrument",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18051,7 +18054,7 @@
         "updated_at": "2020-07-19T04:55:00Z",
         "bson": "558",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins & Chemicals",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18094,7 +18097,7 @@
         "updated_at": "2020-07-19T04:55:00Z",
         "bson": "559",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Enhanced Soil for Plant Cultivation",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18132,7 +18135,7 @@
         "updated_at": "2020-07-19T04:55:00Z",
         "bson": "560",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Radioactive Geological Samples",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18175,7 +18178,7 @@
         "updated_at": "2020-07-12T01:55:00Z",
         "bson": "561",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Prototype Cryptobiote-growing Culture",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18214,7 +18217,7 @@
         "updated_at": "2020-07-19T04:55:00Z",
         "bson": "562",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Spring Water for Baking Bread",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18252,7 +18255,7 @@
         "updated_at": "2020-07-12T02:00:00Z",
         "bson": "563",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Tabletop Role-playing Games",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18290,7 +18293,7 @@
         "updated_at": "2020-07-12T02:00:00Z",
         "bson": "564",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Portable Ration Packs",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18329,7 +18332,7 @@
         "updated_at": "2020-07-12T02:00:00Z",
         "bson": "565",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Highly Conductive Chiral Cookware",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18367,7 +18370,7 @@
         "updated_at": "2020-07-12T02:00:00Z",
         "bson": "566",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Metals & Chemicals",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18406,7 +18409,7 @@
         "updated_at": "2020-07-12T05:00:00Z",
         "bson": "567",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Model Car Magazines from the Golden Age of Motoring",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18444,7 +18447,7 @@
         "updated_at": "2020-07-12T01:55:00Z",
         "bson": "568",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Old Action Hero Figurines",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18482,7 +18485,7 @@
         "updated_at": "2020-07-12T01:55:00Z",
         "bson": "569",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Highly Popular PlayStation® Systems",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18520,7 +18523,7 @@
         "updated_at": "2020-07-12T01:55:00Z",
         "bson": "570",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Brand-new Board Game \"Cryptobio-crisis\"",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18554,7 +18557,7 @@
         "updated_at": "2020-07-12T01:55:00Z",
         "bson": "571",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Large Consignment of Food and Drink",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18597,7 +18600,7 @@
         "updated_at": "2020-07-12T02:00:00Z",
         "bson": "572",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Naturally Timefall-resistant Wood",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18636,7 +18639,7 @@
         "updated_at": "2020-07-12T01:55:00Z",
         "bson": "573",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Famitsu Game Walkthroughs",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18674,7 +18677,7 @@
         "updated_at": "2020-07-12T05:00:00Z",
         "bson": "574",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Forgotten Classic Video Game Consoles",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18712,7 +18715,7 @@
         "updated_at": "2020-07-12T01:55:00Z",
         "bson": "575",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Large Consignment of Reference Books",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18750,7 +18753,7 @@
         "updated_at": "2020-07-12T02:00:00Z",
         "bson": "576",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: High Grade Coal for Smoking",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18788,7 +18791,7 @@
         "updated_at": "2020-07-12T02:00:00Z",
         "bson": "577",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Large Consignement of Materials for Port Expansion",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18822,7 +18825,7 @@
         "updated_at": "2020-07-12T02:00:00Z",
         "bson": "578",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Naturally Timefall-resistant Wood",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18856,7 +18859,7 @@
         "updated_at": "2020-07-12T02:00:00Z",
         "bson": "579",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Timefall-resistant Underwear",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18894,7 +18897,7 @@
         "updated_at": "2020-07-12T02:00:00Z",
         "bson": "580",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Resins",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18933,7 +18936,7 @@
         "updated_at": "2020-07-12T05:00:00Z",
         "bson": "581",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Mountain Spring Water",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -18966,7 +18969,7 @@
         "updated_at": "2020-07-12T02:05:00Z",
         "bson": "582",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Medical Body Scanner Equipment",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -19004,7 +19007,7 @@
         "updated_at": "2020-07-12T02:05:00Z",
         "bson": "583",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Materials Delivery: Special Alloys",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -19037,7 +19040,7 @@
         "updated_at": "2020-07-12T01:55:00Z",
         "bson": "584",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Legnedary \"Aqua Vitae\" Whiskey",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -19076,7 +19079,7 @@
         "updated_at": "2020-07-12T02:05:00Z",
         "bson": "585",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): 20th Century Rock Records",
         "origin": {
             "place_id": "e6efb2f0-4a2d-4447-8ad7-78b0ec85ae5b"
@@ -19122,7 +19125,7 @@
         "updated_at": "2020-07-11T23:25:00Z",
         "bson": "586",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Authentic Coffee-making Kit",
         "origin": {
             "place_id": "3b432ede-3717-4f5b-be94-b64e892cfe99"
@@ -19160,7 +19163,7 @@
         "updated_at": "2020-07-12T01:20:00Z",
         "bson": "587",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Experimental Carbon Nanotube Materials",
         "origin": {
             "place_id": "3b432ede-3717-4f5b-be94-b64e892cfe99"
@@ -19198,7 +19201,7 @@
         "updated_at": "2020-07-11T23:25:00Z",
         "bson": "588",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Pre-Stranding Medical Texts",
         "origin": {
             "place_id": "3b432ede-3717-4f5b-be94-b64e892cfe99"
@@ -19241,7 +19244,7 @@
         "updated_at": "2020-07-11T23:30:00Z",
         "bson": "589",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Chiralium Ore Samples",
         "origin": {
             "place_id": "3b432ede-3717-4f5b-be94-b64e892cfe99"
@@ -19322,7 +19325,7 @@
         "updated_at": "2020-07-11T23:25:00Z",
         "bson": "591",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Time-sensitive): Living Tissue Samples from Mutated Organisms",
         "origin": {
             "place_id": "3b432ede-3717-4f5b-be94-b64e892cfe99"
@@ -19365,7 +19368,7 @@
         "updated_at": "2020-07-11T23:25:00Z",
         "bson": "592",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: New Devices for DNA analysis",
         "origin": {
             "place_id": "3b432ede-3717-4f5b-be94-b64e892cfe99"
@@ -19454,7 +19457,7 @@
         "updated_at": "2020-07-11T23:25:00Z",
         "bson": "594",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Rare Fossils Spotted in an Extinction Layer",
         "origin": {
             "place_id": "3b432ede-3717-4f5b-be94-b64e892cfe99"
@@ -19500,7 +19503,7 @@
         "updated_at": "2020-07-12T01:20:00Z",
         "bson": "595",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery (Fragile): Homo Genus Fossil Samples",
         "origin": {
             "place_id": "3b432ede-3717-4f5b-be94-b64e892cfe99"
@@ -19542,7 +19545,7 @@
         "updated_at": "2020-07-11T23:25:00Z",
         "bson": "596",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Prophetic Old books",
         "origin": {
             "place_id": "3b432ede-3717-4f5b-be94-b64e892cfe99"
@@ -19580,7 +19583,7 @@
         "updated_at": "2020-07-11T23:25:00Z",
         "bson": "597",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Delivery: Precious Media from the Analog Age",
         "origin": {
             "place_id": "3b432ede-3717-4f5b-be94-b64e892cfe99"
@@ -19623,7 +19626,7 @@
         "updated_at": "2020-07-11T23:25:00Z",
         "bson": "598",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Retrieval: Beach-related Art from the Ruined City",
         "origin": {
             "place_id": "3b432ede-3717-4f5b-be94-b64e892cfe99"
@@ -19671,7 +19674,7 @@
         "updated_at": "2020-07-11T23:25:00Z",
         "bson": "599",
         "type": "ORDER_STANDARD",
-        "reorder": null,
+        "reorder": false,
         "name": "Collection: Beach-related Art Spotted in the Ruined City",
         "origin": {
             "place_id": "3b432ede-3717-4f5b-be94-b64e892cfe99"
@@ -19713,7 +19716,7 @@
         "updated_at": null,
         "bson": null,
         "type": "ORDER_ACTIVITY",
-        "reorder": null,
+        "reorder": false,
         "name": "Contaminated Container Disposal",
         "origin": {
             "place_id": "719a3fed-9ebb-4ba3-a5c7-70553394516a"
