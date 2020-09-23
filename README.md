@@ -18,6 +18,8 @@ The tables have been converted into JSON collections:
 
 I'm currently in the process of double-checking the information to correct errors, add missing datum, and resolve some inconsistencies.
 
+A basic HTML table provides a human-readable look at the dataset.
+
 ## Schema
 
 The structure of places and orders is a work in progress and open to suggestions.
