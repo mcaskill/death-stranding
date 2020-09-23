@@ -1,4 +1,4 @@
-Death Stranding / Bridges HQ
+Bridges HQ / Death Stranding
 ============================
 
 > Keep on Keepin' On, Porter!
@@ -64,14 +64,12 @@ The structure of places and orders is a work in progress and open to suggestions
     "origin": {
         "place_id": "70d1a23d-c33f-4b4d-9950-c66b20885d68"
     },
+    "waypoint": {
+        "place_id": "04b44723-e048-4bd9-8a54-b284d7ba7adb"
+    },
     "destination": {
         "place_id": "70d1a23d-c33f-4b4d-9950-c66b20885d68"
     },
-    "waypoints": [
-        {
-            "place_id": "04b44723-e048-4bd9-8a54-b284d7ba7adb"
-        }
-    ],
     "objectives_text": "Recovery (Terrorists), Fragile, Mountainous, Condition, Quantity (<50%, 1 / <20%, 1+)",
     "objectives": [
         {
