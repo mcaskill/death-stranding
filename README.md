@@ -61,13 +61,13 @@ The structure of places and orders is a work in progress and open to suggestions
     "type": "ORDER_STANDARD",
     "reorder": true,
     "name": "[RE-ORDER] Retrieval: Camera",
-    "origin": {
+    "available_at": {
         "place_id": "70d1a23d-c33f-4b4d-9950-c66b20885d68"
     },
-    "waypoint": {
+    "collection_at": {
         "place_id": "04b44723-e048-4bd9-8a54-b284d7ba7adb"
     },
-    "destination": {
+    "delivery_at": {
         "place_id": "70d1a23d-c33f-4b4d-9950-c66b20885d68"
     },
     "objectives_text": "Recovery (Terrorists), Fragile, Mountainous, Condition, Quantity (<50%, 1 / <20%, 1+)",
