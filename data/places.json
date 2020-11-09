@@ -488,8 +488,8 @@
         "tags": [ "ECOTOPE_RUINS", "ORDER_STORY", "ORDER_STANDARD" ],
         "geometry": {
             "point": {
-                "lng": 0,
-                "lat": 0
+                "lng": 1328.19,
+                "lat": 1789.56
             }
         }
     },
@@ -1183,7 +1183,7 @@
         "alpha3": null,
         "knot": null,
         "slug": "bt-territory-64085996",
-        "name": "BT Territory",
+        "name": "Old Volcano Observatory (BT Territory)",
         "notes": "South of [Evo-Devo Biologist][7a695253-c360-4984-b9b2-1041462c16c3].",
         "type": "POI_LANDSCAPE",
         "region": "REGION_CENTRAL",
@@ -1202,7 +1202,7 @@
         "alpha3": null,
         "knot": null,
         "slug": "terrorist-camp-b0546520",
-        "name": "TERRORIST Camp",
+        "name": "Terrorist Camp",
         "notes": "South of [Evo-Devo Biologist][7a695253-c360-4984-b9b2-1041462c16c3].",
         "type": "INFRA_TERRORIST_CAMP",
         "region": "REGION_CENTRAL",
