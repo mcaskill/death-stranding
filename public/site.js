@@ -168,6 +168,10 @@
         const checklistRangeQueryCallback = function () {
             let selector = 'input[type="checkbox"]';
 
+            if (this.commonAncestorContainer.classList.contains('is-searching')) {
+                selector = 'tr.is-match ' + selector;
+            }
+
             return this.commonAncestorContainer.querySelectorAll(selector);
         };
         const persistCheckedInputEventCallback = function (event) {
@@ -253,12 +257,295 @@
         };
     })();
 
+    /**
+     * Catalogue Searcher
+     *
+     * @link https://github.com/codemirror/CodeMirror/blob/v3.12/addon/search/search.js CodeMirror Add-On
+     */
+    const Search = (function () {
+        const elem = {
+            tables: null,
+        }
+        const state = {
+            lastQuery: null,
+            queryText: null,
+            query:     null,
+            results:   [],
+        }
+
+        /**
+         * Parses the escape sequences in the string.
+         *
+         * @param  {string} string - The search query to parse.
+         * @return {string} The filtered input.
+         */
+        function parseString(string) {
+            return string.replace(/\\([nrt\\])/g, function (match, ch) {
+                if (ch === 'n') {
+                    return "\n";
+                }
+
+                if (ch === 'r') {
+                    return "\r";
+                }
+
+                if (ch === 't') {
+                    return "\t";
+                }
+
+                if (ch === "\\") {
+                    return "\\";
+                }
+
+                return match;
+            });
+        }
+
+        /**
+         * Parses the the string into a regular expression object.
+         *
+         * @param  {string} string - The search query to parse.
+         * @return {(string|RegExp)} The query string or regular expression object.
+         */
+        function parseQuery(query) {
+            const isRE = query.match(/^\/(.*)\/([a-z]*)$/);
+            if (isRE) {
+                try {
+                    query = new RegExp(isRE[1], isRE[2].indexOf('i') === -1 ? '' : 'i');
+                }
+                catch (error) {
+                    // Not a regular expression after all, do a string search
+                    console.error('[Bridges]', '[Parse Query: ' + query + ']', error);
+                }
+            } else {
+                query = parseString(query);
+            }
+
+            if (typeof query === 'string' ? query === '' : query.test('')) {
+                query = /x^/;
+            }
+
+            return query;
+        }
+
+        /**
+         * Determines if the query is case-insensitive.
+         *
+         * A search query is condisered case-insensitive
+         * if it is a string of all lowercase characters.
+         *
+         * @param  {(string|RegExp)} query The input to test.
+         * @return {boolean}
+         */
+        function isQueryCaseInsensitive(query) {
+            return (typeof query === 'string' && query === query.toLowerCase());
+        }
+
+        /**
+         * Finalizes the query for searching.
+         *
+         * @param  {(string|RegExp)} query - The parsed search query.
+         * @return {RegExp} The regular expression object.
+         */
+        function prepareQuery(query) {
+            if (typeof query === 'string') {
+                query = new RegExp(
+                    query.replace(/[\-\[\]\/\{\}\(\)\*\+\?\.\\\^\$\|]/g, "\\$&"),
+                    (isQueryCaseInsensitive(query) ? 'gi' : 'g')
+                );
+            } else if (!query.global) {
+                query = new RegExp(
+                    query.source,
+                    (query.ignoreCase ? 'gi' : 'g')
+                );
+            }
+
+            return query;
+        }
+
+        /**
+         * Prepares the search state and parses the query.
+         *
+         * @param  {string} query - The input query.
+         * @return {(string|RegExp)} The parsed query.
+         */
+        function prepareSearch(query) {
+            state.queryText = query;
+            state.query     = parseQuery(query);
+            state.results   = [];
+
+            return state.query;
+        }
+
+        /**
+         * Clears the search.
+         *
+         * @return {void}
+         */
+        function clearSearch() {
+            state.lastQuery = state.query;
+            state.query     = null;
+            state.queryText = null;
+            state.results   = [];
+        }
+
+        return {
+            /**
+             * Initialize the given form and tables.
+             *
+             * @param  {HTMLTableElement[]} tables - One or more table elements.
+             * @param  {HTMLFormElement}    form   - A form element.
+             * @return {void}
+             */
+            init: function (tables, form) {
+                if (tables instanceof Element) {
+                    tables = [ tables ];
+                }
+
+                elem.tables = tables;
+
+                form.eventset = form.eventset || {};
+
+                form.eventset.submit = (event) => {
+                    event.preventDefault();
+
+                    const input = event.target.querySelector('[name="query"]');
+                    const reset = event.target.querySelector('[type="reset"]');
+                    if (input && input.value.length) {
+                        if (reset) {
+                            reset.hidden = false;
+                        }
+                        Promise.resolve(this.filter(input.value));
+                    } else {
+                        if (reset) {
+                            reset.hidden = true;
+                        }
+                        Promise.resolve(this.clear());
+                    }
+                };
+                form.addEventListener('submit', form.eventset.submit, {
+                    capture: true,
+                });
+
+                form.eventset.reset = (event) => {
+                    const reset = event.target.querySelector('[type="reset"]');
+                    if (reset) {
+                        reset.hidden = true;
+                    }
+                    this.clear();
+                };
+                form.addEventListener('reset', form.eventset.reset, {
+                    capture: true,
+                    passive: true,
+                });
+
+                form.classList.add('is-searchable');
+            },
+            /**
+             * Uninitialize the given form and tables.
+             *
+             * @param  {HTMLFormElement}    form   - A form element.
+             * @param  {HTMLTableElement[]} tables - One or more table elements.
+             * @return {void}
+             */
+            unload: function (form, tables) {
+                if (form.eventset.submit) {
+                    form.removeEventListener('submit', form.eventset.submit);
+                }
+
+                if (form.eventset.reset) {
+                    form.removeEventListener('reset', form.eventset.reset);
+                }
+
+                this.clear();
+            },
+            /**
+             * Searches the dataset for occurrences of the query.
+             *
+             * @param  {string} query - The input query.
+             * @return {array<HTMLTableRowElement>} Zero or more rows.
+             */
+            find: function (query) {
+                clearSearch();
+
+                query = prepareQuery(prepareSearch(query));
+
+                const TIME_START = new Date();
+
+                elem.tables.forEach(function (table) {
+                    for (const tbody of table.tBodies) {
+                        for (const tbr of tbody.rows) {
+                            query.lastIndex = 0;
+                            if (query.test(tbr.innerText)) {
+                                state.results.push(tbr);
+                            }
+                        }
+                    }
+                });
+
+                console.log('Searched (' + ((new Date() - TIME_START) / 1000) + '):', state.results);
+            },
+            /**
+             * Filters the dataset for occurrences of the query.
+             *
+             * @param  {string} query - The input query.
+             * @return {array<HTMLTableRowElement>} Zero or more rows.
+             */
+            filter: function (query) {
+                clearSearch();
+
+                query = prepareQuery(prepareSearch(query));
+                window.foo = query;
+
+                const TIME_START = new Date();
+
+                elem.tables.forEach(function (table) {
+                    table.classList.add('is-searching');
+                    for (const tbody of table.tBodies) {
+                        for (const tbr of tbody.rows) {
+                            query.lastIndex = 0;
+                            if (query.test(tbr.innerText)) {
+                                tbr.classList.add('is-match');
+                                state.results.push(tbr);
+                            } else {
+                                tbr.classList.remove('is-match');
+                            }
+                        }
+                    }
+                });
+
+                console.log('Filtered (' + ((new Date() - TIME_START) / 1000) + '):', state.results);
+            },
+            clear: function () {
+                clearSearch();
+
+                elem.tables.forEach(function (table) {
+                    table.classList.remove('is-searching');
+
+                    table.querySelectorAll('tbody tr.is-match').forEach(function (tbr) {
+                        tbr.classList.remove('is-match');
+                    });
+                });
+
+                console.log('Cleared search');
+            }
+        };
+    })();
+
+    window.Bridges = {
+        find:        Search.find,
+        filter:      Search.filter,
+        clearFilter: Search.clear,
+    };
+
     window.addEventListener('load', function () {
+        const form   = window.document.getElementById('ds-search');
         const tables = window.document.querySelectorAll('table.ds-orders');
 
         try {
             if (isStorageAvailable) {
                 Track.init(tables, window.localStorage);
+                Search.init(tables, form);
             }
         } catch (error) {
             console.error('[Bridges]', error);

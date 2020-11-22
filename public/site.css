@@ -51,6 +51,14 @@
     box-sizing: border-box;
 }
 
+svg {
+    display: inline-block;
+}
+
+svg:not(:root) {
+    overflow: hidden;
+}
+
 body.show-layout {
     --body-bck-color: pink;
 }
@@ -299,13 +307,77 @@ tbody tr:nth-of-type(even) {
     background-color: var(--trow-even-bck-color);
 }
 
+table.is-searching tbody tr:not(.tr-done) {
+    background-color: var(--trow-odd-bck-color);
+}
+
 tbody tr.tr-done {
     color: var(--trans-off-black);
     background-color: transparent;
 }
 
+table.is-searching tbody tr:not(.is-match) {
+    display: none;
+}
+
 table:not(.is-trackable) .tc-check {
     display: none;
+}
+
+.c-search-form {
+    position: relative;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.c-search-input {
+    display: block;
+    width: 100%;
+    padding-top: 0.5em;
+    padding-right: calc(1.25em + 16px);
+    padding-bottom: 0.5em;
+    padding-left: calc(1.25em + 16px);
+    vertical-align: middle;
+    border-color: var(--border-color);
+    border-style: solid;
+    border-width: 1px;
+    background-color: var(--input-bck-color);
+}
+
+.c-search-reset,
+.c-search-query-icon {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.c-search-query-icon {
+    left: 0.7em;
+    display: block;
+    pointer-events: none;
+    opacity: 0.6;
+}
+
+.c-search-reset {
+    padding: 0;
+    cursor: pointer;
+    user-select: none;
+    border: none;
+    background-color: var(--light-gray-blue-3);
+    white-space: nowrap;
+    text-align: center;
+    line-height: 1;
+}
+
+.c-search-reset-icon {
+    width: 24px;
+    height: 24px;
+    padding: 4px;
+    vertical-align: text-bottom;
+}
+
+.has-search-form .table-container-y {
+    height: calc(100vh - 6.5rem);
 }
 
 @media only screen and (min-width: 760px) {
@@ -372,6 +444,14 @@ table:not(.is-trackable) .tc-check {
     .tc-check,
     .tc-number {
         text-align: center;
+    }
+
+    .c-search-form {
+        font-size: 0.75rem;
+    }
+
+    .c-search-reset {
+        right: 4px;
     }
 }
 
@@ -454,6 +534,10 @@ table:not(.is-trackable) .tc-check {
 
     tbody .tc-number {
         order: -2;
+    }
+
+    .c-search-reset {
+        right: 0.625em;
     }
 }
 

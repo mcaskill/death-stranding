@@ -8,7 +8,7 @@ use DateTimeImmutable;
 
 class App
 {
-    public const VERSION     = '2020-11-21T20:50:00UTC';
+    public const VERSION     = '2020-11-22T05:20:00UTC';
     public const SITE_NAME   = 'Bridges';
     public const DESCRIPTION = 'A list of standard orders, facilities, and related activities, in Death Stranding.';
     public const QUOTE       = 'Keep on Keepin’ On, Porter!';
