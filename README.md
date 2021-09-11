@@ -60,6 +60,7 @@ The structure of places and orders is a work in progress and open to suggestions
     "bson": "306",
     "type": "ORDER_STANDARD",
     "reorder": true,
+    "urgent": false,
     "name": "[RE-ORDER] Retrieval: Camera",
     "available_at": {
         "place_id": "70d1a23d-c33f-4b4d-9950-c66b20885d68"
