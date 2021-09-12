@@ -1,7 +1,11 @@
-Bridges HQ
-==========
+Bridges HQ / Standard Orders
+============================
 
-A tool for managing deliveries in Death Stranding.
+This branch is an HTML tool to search and track deliveries.
+
+It is generated from the `demo/php` branch.
+
+Learn more in the `main` branch.
 
 ## Legal
 
