@@ -1,4 +1,4 @@
-Bridges HQ / Death Stranding
+Bridges HQ / Standard Orders
 ============================
 
 > Keep on Keepin' On, Porter!
@@ -17,6 +17,8 @@ The tables have been converted into JSON collections:
 * _Orders_ — A list of standard and premium deliveries and extracurricular activities.
 
 I'm currently in the process of double-checking the information to correct errors, add missing datum, and resolve some inconsistencies.
+
+A basic HTML table providing a human-readable look at the dataset is available in the `demo/html` branch or at [mcaskill.ca/death-stranding](https://mcaskill.ca/death-stranding/).
 
 ## Schema
 
