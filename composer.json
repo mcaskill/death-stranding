@@ -1,0 +1,16 @@
+{
+    "type": "project",
+    "name": "mcaskill/bridges-hq",
+    "description": "A tool for managing deliveries in the video game Death Stranding.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Chauncey McAskill",
+            "email": "chauncey@mcaskill.ca"
+        }
+    ],
+    "require": {
+        "php": ">=7.2",
+        "ext-json": "*"
+    }
+}
