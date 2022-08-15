@@ -31,16 +31,18 @@ The structure of places and orders is a work in progress and open to suggestions
 ```json
 {
     "id": "6fa149f8-2559-4282-8948-596dc624d578",
+    "updated_at": "2020-07-12T04:30:00Z",
     "bsln": "UCA-01-003",
-    "alpha3": "CAP",
     "knot": 2,
-    "slug": "capital-knot-city",
     "name": "Capital Knot City",
-    "notes": null,
+    "details": null,
     "type": "INFRA_CITY",
     "region": "REGION_EASTERN",
     "amenities": [],
-    "tags": [ "ORDER_STORY", "ORDER_STANDARD" ],
+    "tags": [
+        "ORDER_STORY",
+        "ORDER_STANDARD"
+    ],
     "geometry": {
         "point": {
             "lng": 1431.92,
