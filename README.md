@@ -11,12 +11,12 @@ This project is a tool for consulting and managing deliveries within the game's 
 
 This framework is based on the incredible work of @spenjer1, @Miloby, and @Helel_Ben who originally compiled the game's standard orders and published them on Reddit <sup>[[1][reddit-e3g1q8]]</sup> <sup>[[2][reddit-e3g2yg]]</sup> as a collection of HTML tables.
 
+I've verified the information and corrected errors, adding missing datum, and resolved some inconsistencies.
+
 The tables have been converted into JSON collections:
 
 * _Places_ — A list of facilities, shelters, camps, BT areas, and points of interest.
 * _Orders_ — A list of standard and premium deliveries and extracurricular activities.
-
-I'm currently in the process of double-checking the information to correct errors, add missing datum, and resolve some inconsistencies.
 
 A basic HTML table providing a human-readable look at the dataset is available in the `demo/html` branch or at [mcaskill.ca/death-stranding](https://mcaskill.ca/death-stranding/).
 
@@ -26,7 +26,7 @@ The structure of places and orders is a work in progress and open to suggestions
 
 ### Place
 
-<details><summary>Example</summary>
+<details><summary>Example of a place</summary>
 
 ```json
 {
@@ -55,7 +55,7 @@ The structure of places and orders is a work in progress and open to suggestions
 
 ### Order
 
-<details><summary>Example</summary>
+<details><summary>Example of an order</summary>
 
 ```json
 {
